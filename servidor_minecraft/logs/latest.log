@@ -432,3 +432,22 @@
 [22:19:00] [Server thread/INFO]: [SrLipord: Teleported Gathooo to SrLipord]
 [22:19:05] [Server thread/INFO]: [SrLipord: Teleported 4 entities to SrLipord]
 [22:19:12] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[22:19:36] [Server thread/INFO]: [SrLipord: Teleported 4 entities to SrLipord]
+[22:19:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[22:20:04] [Server thread/INFO]: [SrLipord: Stopping the server]
+[22:20:04] [Server thread/INFO]: Stopping server
+[22:20:04] [Server thread/INFO]: Saving players
+[22:20:04] [Server thread/INFO]: SrLipord lost connection: Server closed
+[22:20:04] [Server thread/INFO]: SrLipord left the game
+[22:20:04] [Server thread/INFO]: Gathooo lost connection: Server closed
+[22:20:04] [Server thread/INFO]: Gathooo left the game
+[22:20:04] [Server thread/INFO]: Saving worlds
+[22:20:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:20:07] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[22:20:07] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml

@@ -13,13 +13,13 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -55,7 +55,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -67,7 +67,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 22:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-13 22:13:42 +0000"
@@ -103,13 +109,19 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
+  "terrestria:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 22:18:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -121,13 +133,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -151,7 +163,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -167,9 +179,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-13 22:18:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -220,7 +238,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },
@@ -232,7 +250,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:08 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
     },
     "done": false
   },

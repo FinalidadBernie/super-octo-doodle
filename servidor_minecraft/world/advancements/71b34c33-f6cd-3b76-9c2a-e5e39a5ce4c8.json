@@ -1,32 +1,55 @@
 {
+  "terrestria:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
+  "terrestria:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "terrestria:recipes/redstone/cypress_trapdoor": {
     "criteria": {
-      "requirement": "2025-04-13 22:15:43 +0000",
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "has_planks": "2025-04-13 22:18:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
+    },
+    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-04-13 22:14:12 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
     },
     "done": true
   },
@@ -42,21 +65,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "backpacks:tree/root": {
     "criteria": {
       "requirement": "2025-04-13 22:14:12 +0000"
     },
     "done": true
   },
+  "terrestria:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_logs": "2025-04-13 22:18:07 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
+  "terrestria:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2025-04-13 22:18:07 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -68,13 +121,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -86,7 +139,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -96,9 +149,27 @@
     },
     "done": false
   },
+  "terrestria:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-13 22:18:07 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -114,9 +185,15 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -128,7 +205,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-13 22:15:07 +0000"
+      "log_spam_fixer": "2025-04-13 22:19:07 +0000"
     },
     "done": false
   },
@@ -137,6 +214,12 @@
       "log_spam_fixer": "2025-04-13 22:14:13 +0000"
     },
     "done": false
+  },
+  "terrestria:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-13 22:18:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
