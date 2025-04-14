@@ -55,7 +55,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-04-14 23:28:41 +0000",
       "minecraft:beach": "2025-04-13 22:14:26 +0000",
+      "minecraft:desert": "2025-04-14 23:25:01 +0000",
       "minecraft:ocean": "2025-04-14 00:10:01 +0000",
       "minecraft:river": "2025-04-14 23:04:05 +0000",
       "minecraft:birch_forest": "2025-04-14 02:29:02 +0000",
@@ -2084,6 +2086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-14 23:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 23:04:44 +0000"
@@ -2252,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-14 23:26:55 +0000"
+    },
+    "done": true
+  },
   "packedup:diamond_backpack": {
     "criteria": {
       "has_backpack": "2025-04-14 22:49:51 +0000"
@@ -2291,6 +2305,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-14 23:26:55 +0000"
     },
     "done": true
   },

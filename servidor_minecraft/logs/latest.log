@@ -439,3 +439,18 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [23:22:47] [Server thread/INFO]: Gathooo teleported to -226.5 81.0 31.5 minecraft:overworld
 [23:24:08] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
 [23:25:01] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[23:30:14] [Server thread/INFO]: Gathooo teleported to -303.5 -52.0 200.5 minecraft:overworld
+[23:30:50] [Server thread/INFO]: SrLipord was killed while fighting Skeleton
+[23:30:50] [Server thread/INFO]: [Vector: Killed SrLipord]
+[23:30:53] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[23:30:58] [Server thread/INFO]: SrLipord teleported to -10744.5 141.0 -2486.5 minecraft:overworld
+[23:34:51] [Server thread/INFO]: SrLipord teleported to -1863.5 64.0 -12385.5 minecraft:overworld
+[23:35:06] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[23:35:34] [Server thread/INFO]: Vector was shot by Skeleton
+[23:35:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[23:35:51] [Server thread/INFO]: Vector teleported to -10755.5 139.0 -2525.5 minecraft:overworld
+[23:40:28] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[23:40:28] [Server thread/INFO]: SrLipord left the game
+[23:41:55] [Server thread/INFO]: SrLipord[/127.163.204.157:43447] logged in with entity id 41849 at (-2288.6110689286857, 157.0, -11891.699999988079)
+[23:41:55] [Server thread/INFO]: SrLipord joined the game
+[23:41:55] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
