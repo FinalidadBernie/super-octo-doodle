@@ -777,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-14 00:17:03 +0000"
@@ -834,6 +840,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
@@ -1041,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:59:24 +0000"
@@ -1131,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-14 01:50:48 +0000"
@@ -1164,6 +1188,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
@@ -1206,6 +1236,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-14 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
@@ -1413,6 +1449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
@@ -1572,6 +1614,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
@@ -1752,6 +1800,12 @@
   "terrestria:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
@@ -2143,6 +2197,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 02:11:04 +0000"
     },
     "done": true
   },
