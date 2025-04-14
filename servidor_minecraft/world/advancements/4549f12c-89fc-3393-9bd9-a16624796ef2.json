@@ -59,6 +59,7 @@
       "minecraft:beach": "2025-04-13 22:12:34 +0000",
       "minecraft:ocean": "2025-04-13 22:12:43 +0000",
       "minecraft:river": "2025-04-13 22:12:08 +0000",
+      "minecraft:savanna": "2025-04-14 01:06:15 +0000",
       "minecraft:plains": "2025-04-14 00:17:38 +0000"
     },
     "done": false
@@ -1279,75 +1280,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 01:01:52 +0000"
+      "log_spam_fixer": "2025-04-14 01:08:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-14 01:07:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -1358,6 +1365,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-14 00:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-14 01:08:00 +0000"
     },
     "done": true
   },
@@ -1391,9 +1404,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-14 01:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-04-14 00:42:28 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-04-14 01:02:36 +0000"
     },
     "done": true
   },
@@ -1484,6 +1509,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-14 01:08:00 +0000"
     },
     "done": true
   },
@@ -1627,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-14 01:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-14 00:28:55 +0000"
@@ -1681,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-14 01:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-14 00:37:37 +0000"
@@ -1690,6 +1733,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-14 00:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-14 01:02:36 +0000"
     },
     "done": true
   },
@@ -1705,9 +1754,21 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-04-14 01:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-14 00:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-14 01:05:37 +0000"
     },
     "done": true
   },

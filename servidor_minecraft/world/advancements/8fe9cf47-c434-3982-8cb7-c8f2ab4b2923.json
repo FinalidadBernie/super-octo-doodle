@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-14 00:18:37 +0000"
@@ -505,6 +511,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
     },
     "done": true
   },
@@ -689,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-04-14 00:13:15 +0000"
@@ -773,6 +791,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-14 00:30:11 +0000"
@@ -800,6 +830,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
     },
     "done": true
   },
@@ -935,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
@@ -1040,6 +1082,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
     },
     "done": true
   },
@@ -1178,6 +1226,12 @@
   "terrestria:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
     },
     "done": true
   },
@@ -1397,6 +1451,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-14 01:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-14 00:29:18 +0000"
@@ -1460,6 +1520,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-14 01:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-04-14 01:07:47 +0000"
     },
     "done": true
   },
