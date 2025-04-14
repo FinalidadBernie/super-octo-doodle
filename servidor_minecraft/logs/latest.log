@@ -358,3 +358,33 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22:22:08] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
 [22:22:16] [Server thread/INFO]: [Not Secure] <Gathooo> hola putas
 [22:23:52] [Server thread/INFO]: [Not Secure] [Server] mamaguebo
+[22:25:20] [Server thread/INFO]: KHPL707 was slain by Zombie
+[22:25:22] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[22:26:25] [Server thread/INFO]: ChickenPockey[/127.163.204.157:51727] logged in with entity id 4383 at (-649.5, 69.0, 157.5)
+[22:26:25] [Server thread/INFO]: ChickenPockey joined the game
+[22:26:26] [Server thread/INFO]: [do_a_barrel_roll] Client of ChickenPockey accepted server config.
+[22:26:52] [Server thread/INFO]: [Not Secure] <ChickenPockey> a
+[22:26:57] [Server thread/INFO]: ChickenPockey lost connection: Disconnected
+[22:26:57] [Server thread/INFO]: ChickenPockey left the game
+[22:28:53] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[22:28:53] [Server thread/INFO]: Gathooo left the game
+[22:29:14] [Server thread/INFO]: ChickenPockey[/127.163.204.157:44355] logged in with entity id 5877 at (-651.7185265279477, 72.0, 151.53006108703724)
+[22:29:14] [Server thread/INFO]: ChickenPockey joined the game
+[22:29:14] [Server thread/INFO]: [do_a_barrel_roll] Client of ChickenPockey accepted server config.
+[22:29:29] [Server thread/INFO]: Gathooo[/127.47.238.219:41305] logged in with entity id 6124 at (-56.303181992436265, -55.0, 207.30286880477453)
+[22:29:29] [Server thread/INFO]: Gathooo joined the game
+[22:29:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[22:29:32] [Server thread/INFO]: [Not Secure] <ChickenPockey> a
+[22:32:47] [Server thread/INFO]: ChickenPockey lost connection: Disconnected
+[22:32:47] [Server thread/INFO]: ChickenPockey left the game
+[22:37:38] [Server thread/INFO]: KHPL707 was slain by Cave Spider
+[22:37:40] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[22:37:52] [Server thread/INFO]: KHPL707 teleported to 489.5 0.0 -845.5 minecraft:overworld
+[22:38:07] [Server thread/INFO]: KHPL707 was slain by Cave Spider
+[22:38:08] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[22:38:13] [Server thread/INFO]: KHPL707 teleported to 489.5 0.0 -845.5 minecraft:overworld
+[22:40:02] [Server thread/INFO]: KHPL707 teleported to 482.5 72.0 -920.5 minecraft:overworld
+[22:41:20] [Server thread/INFO]: Gathooo teleported to -226.5 81.0 31.5 minecraft:overworld
+[22:42:03] [Server thread/INFO]: Gathooo has made the advancement [Packing Up!]
+[22:43:27] [Server thread/INFO]: Gathooo has made the advancement [Bigger is better]
+[22:43:48] [Server thread/INFO]: KHPL707 has made the advancement [Suit Up]

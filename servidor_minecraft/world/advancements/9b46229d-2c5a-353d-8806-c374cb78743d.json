@@ -1526,6 +1526,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-14 03:02:52 +0000",
       "minecraft:enderman": "2025-04-14 02:00:11 +0000",
+      "minecraft:witch": "2025-04-14 22:27:32 +0000",
       "minecraft:spider": "2025-04-14 02:26:39 +0000",
       "minecraft:zombie": "2025-04-14 01:30:28 +0000",
       "minecraft:husk": "2025-04-14 03:01:59 +0000"
@@ -1790,9 +1791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
     },
     "done": true
   },
@@ -1820,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-04-14 22:16:23 +0000"
@@ -1838,9 +1857,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2025-04-14 22:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
     },
     "done": true
   },
@@ -1856,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 22:18:26 +0000"
@@ -1865,6 +1902,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 22:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-14 22:27:34 +0000"
     },
     "done": true
   },

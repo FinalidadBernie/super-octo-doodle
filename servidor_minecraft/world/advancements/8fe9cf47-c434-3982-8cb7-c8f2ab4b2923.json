@@ -816,6 +816,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-04-14 22:37:03 +0000",
       "minecraft:skeleton": "2025-04-14 01:35:34 +0000",
       "minecraft:spider": "2025-04-14 00:42:55 +0000",
       "minecraft:zombie": "2025-04-14 00:25:54 +0000",
@@ -2059,77 +2060,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/redstone/note_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
+      "has_redstone": "2025-04-14 22:35:17 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-14 02:23:16 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 4189
 }
