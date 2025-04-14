@@ -926,6 +926,7 @@
       "cooked_mutton": "2025-04-14 01:10:53 +0000",
       "salmon": "2025-04-14 01:10:27 +0000",
       "cod": "2025-04-14 00:41:02 +0000",
+      "baked_potato": "2025-04-14 02:00:37 +0000",
       "porkchop": "2025-04-14 00:36:25 +0000"
     },
     "done": false
@@ -1370,9 +1371,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
+      "has_furnace": "2025-04-14 01:28:31 +0000"
     },
     "done": true
   },
@@ -1424,27 +1425,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-04-14 01:28:31 +0000"
     },
     "done": true
   },
@@ -1454,21 +1437,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
     },
     "done": true
   },
@@ -1478,33 +1449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
     },
     "done": true
   },
@@ -1517,12 +1464,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
     },
     "done": true
   },
@@ -1544,21 +1485,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
     },
     "done": true
   },
@@ -1577,18 +1506,6 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 01:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-14 01:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-04-14 01:40:22 +0000"
     },
     "done": true
   },
@@ -1622,9 +1539,196 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-14 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-14 01:40:22 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000",
+      "has_the_recipe": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:56:27 +0000"
     },
     "done": true
   },
