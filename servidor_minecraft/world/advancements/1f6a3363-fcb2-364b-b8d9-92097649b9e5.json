@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:beach": "2025-04-13 22:14:26 +0000",
       "minecraft:ocean": "2025-04-14 00:10:01 +0000",
+      "minecraft:river": "2025-04-14 23:04:05 +0000",
       "minecraft:birch_forest": "2025-04-14 02:29:02 +0000",
       "minecraft:lush_caves": "2025-04-14 00:48:22 +0000",
       "minecraft:plains": "2025-04-14 00:22:39 +0000"
@@ -2033,6 +2034,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 22:49:46 +0000"
@@ -2051,9 +2058,33 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 22:49:46 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
     },
     "done": true
   },
@@ -2081,9 +2112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/obsidian_from_diamond": {
     "criteria": {
       "recipe_condition": "2025-04-14 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
     },
     "done": true
   },
@@ -2111,15 +2154,51 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/japanese_maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/silver_from_iron": {
     "criteria": {
       "recipe_condition": "2025-04-14 22:43:27 +0000"
     },
     "done": true
   },
+  "terrestria:recipes/transportation/yucca_palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-04-14 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
     },
     "done": true
   },
@@ -2165,6 +2244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-14 22:44:45 +0000"
@@ -2174,6 +2259,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-14 22:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
     },
     "done": true
   },
@@ -2195,6 +2286,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 22:49:46 +0000"
@@ -2210,6 +2307,24 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 22:49:46 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rubber_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/hemlock_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 23:04:44 +0000"
     },
     "done": true
   },

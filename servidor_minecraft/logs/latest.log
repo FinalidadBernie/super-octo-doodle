@@ -413,3 +413,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22:53:22] [Server thread/INFO]: KHPL707 was slain by Zombie
 [22:53:24] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
 [22:54:45] [Server thread/INFO]: Gathooo teleported to -164.5 -13.0 131.5 minecraft:overworld
+[22:55:49] [Server thread/INFO]: Gathooo teleported to -200.5 -54.0 289.5 minecraft:overworld
+[22:56:01] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to Gathooo]
+[22:56:01] [Server thread/INFO]: KHPL707 has made the advancement [Diamonds!]
+[22:56:20] [Server thread/INFO]: SrLipord[/127.163.204.157:44955] logged in with entity id 21192 at (-2227.7143433153974, 285.0, -11802.024250657403)
+[22:56:20] [Server thread/INFO]: SrLipord joined the game
+[22:56:21] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[22:56:53] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[22:57:39] [Server thread/INFO]: KHPL707 teleported to 482.5 72.0 -920.5 minecraft:overworld
+[22:58:02] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
+[22:58:11] [Server thread/INFO]: [Gathooo: Teleported Gathooo to KHPL707]
+[23:02:10] [Server thread/INFO]: [Not Secure] <KHPL707> tqw
