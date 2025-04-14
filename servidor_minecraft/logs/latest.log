@@ -1,10 +1,10 @@
-[22:09:15] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[22:09:16] [main/WARN]: Warnings were found!
+[00:01:33] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[00:01:37] [main/WARN]: Warnings were found!
  - Mod 'Bridging Mod' (bridgingmod) 2.6.2+1.21.3 recommends version 12.0.0-beta.1 or later of modmenu, which is missing!
 	 - You should install version 12.0.0-beta.1 or later of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[22:09:16] [main/INFO]: Loading 169 mods:
+[00:01:37] [main/INFO]: Loading 169 mods:
 	- amplified_nether 1.2.7
 	- appleskin 3.0.6+mc1.21.3
 	- architectury 15.0.3
@@ -195,259 +195,212 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[22:09:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/super-octo-doodle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:09:16] [main/INFO]: Compatibility level set to JAVA_21
-[22:09:16] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
-[22:09:16] [main/INFO]: Applying Nashorn fix
-[22:09:16] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
-[22:09:17] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
-[22:09:17] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[22:09:17] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[22:09:17] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[22:09:17] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[22:09:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:09:21] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[22:09:25] [main/INFO]: Vanilla bootstrap took 7240 milliseconds
-[22:09:25] [main/INFO]: Welcome! ./config/libraryferret_1.properties created and initialized with default value
-[22:09:25] [main/INFO]: Welcome! ./config/bettervillage_1.properties created and initialized with default value
-[22:09:26] [main/INFO]: Hello Fabric world!
-[22:09:26] [main/INFO]: Biolith for Fabric is initializing...
-[22:09:26] [main/INFO]: Loading Collective version 8.1.
-[22:09:26] [main/INFO]: Constructing common components for diagonalblocks:main
-[22:09:26] [main/INFO]: Constructing common components for diagonalfences:main
-[22:09:26] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 263ms
-[22:09:26] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
-[22:09:26] [Cicada thread 0/INFO]: [do_a_barrel_roll] I'm here, ready to rumble!
-[22:09:26] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 42ms
-[22:09:26] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 98ms
-[22:09:27] [main/INFO]: Constructing common components for easyanvils:main
-[22:09:27] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[22:09:27] [main/INFO]: Constructing common components for easymagic:main
-[22:09:27] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[22:09:27] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[22:09:27] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[22:09:27] [main/INFO]: Initializing JamLib on Fabric
-[22:09:27] [main/INFO]: Initializing ServerSide Packet Registries
-[22:09:27] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[22:09:27] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[22:09:27] [main/INFO]: ---------------------------
-[22:09:27] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[22:09:27] [main/INFO]:  
-[22:09:27] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[22:09:27] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[22:09:27] [main/INFO]:  
-[22:09:27] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[22:09:27] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[22:09:27] [main/INFO]:  
-[22:09:27] [main/INFO]: Json-smart Copyright © netplex.
-[22:09:27] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[22:09:27] [main/INFO]:  
-[22:09:27] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[22:09:27] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[22:09:27] [main/INFO]: ---------------------------
-[22:09:27] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[22:09:27] [main/INFO]: Initialize mod Library Ferret
-[22:09:27] [main/INFO]: Initialized mod Library Ferret
-[22:09:28] [main/INFO]: Constructing common components for puzzleslib:main
-[22:09:28] [main/INFO]: Updated config file at /workspaces/super-octo-doodle/servidor_minecraft/config/rightclickharvest.json5
-[22:09:28] [main/INFO]: Updated config file at /workspaces/super-octo-doodle/servidor_minecraft/config/rightclickharvest.json5
-[22:09:28] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[22:09:28] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[22:09:28] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[22:09:28] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[22:09:28] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[22:09:29] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
-[22:09:29] [main/INFO]: Config 'weaponmaster_ydm_config' is missing, generating default one...
-[22:09:29] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[22:09:29] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:09:30] [main/INFO]: Found new data pack amplified_nether, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack balm, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack bettervillage, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack collective, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack config2brigadier, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack customizableelytra, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack diagonalblocks, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack easyanvils, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack easymagic, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack elytratrims, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack fabric, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack fabrictailor, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack formationsoverworld, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack incendium, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack libraryferret, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack lithostitched, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mcwdoors, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mcwpaintings, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mcwpaths, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mcwtrpdoors, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mine-spawners, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mr_tidal_towns, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack mr_vanilla_backpacks, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack packedup, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack repurposed_structures, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack rightclickharvest, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack sereneseasons, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack server_translations_api, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack supermartijn642corelib, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack t_and_t, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack t_and_t:resources/t_and_t_waystones_patch, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack terralith, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack terrestria-common, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack universal-graves, loading it automatically
-[22:09:30] [main/INFO]: Found new data pack waystones, loading it automatically
-[22:09:30] [main/INFO]: Collected 0 data resources in 68.432102ms:
+[00:01:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/super-octo-doodle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:01:38] [main/INFO]: Compatibility level set to JAVA_21
+[00:01:39] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:39] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
+[00:01:39] [main/INFO]: Applying Nashorn fix
+[00:01:39] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
+[00:01:40] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
+[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[00:01:41] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[00:01:41] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:01:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:01:46] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[00:01:52] [main/INFO]: Vanilla bootstrap took 9647 milliseconds
+[00:01:52] [main/INFO]: Hello Fabric world!
+[00:01:52] [main/INFO]: Biolith for Fabric is initializing...
+[00:01:52] [main/INFO]: Loading Collective version 8.1.
+[00:01:53] [main/INFO]: Constructing common components for diagonalblocks:main
+[00:01:53] [main/INFO]: Constructing common components for diagonalfences:main
+[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 161ms
+[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 84ms
+[00:01:53] [Cicada thread 0/INFO]: 'id like to browse without fear of being shunned by friends and family'
+[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 116ms
+[00:01:53] [main/INFO]: Constructing common components for easyanvils:main
+[00:01:54] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[00:01:54] [main/INFO]: Constructing common components for easymagic:main
+[00:01:54] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[00:01:54] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[00:01:54] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[00:01:54] [main/INFO]: Initializing JamLib on Fabric
+[00:01:54] [main/INFO]: Initializing ServerSide Packet Registries
+[00:01:54] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[00:01:54] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[00:01:54] [main/INFO]: ---------------------------
+[00:01:54] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[00:01:54] [main/INFO]:  
+[00:01:54] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[00:01:54] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[00:01:54] [main/INFO]:  
+[00:01:54] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[00:01:54] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[00:01:54] [main/INFO]:  
+[00:01:54] [main/INFO]: Json-smart Copyright © netplex.
+[00:01:54] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[00:01:54] [main/INFO]:  
+[00:01:54] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[00:01:54] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[00:01:54] [main/INFO]: ---------------------------
+[00:01:54] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[00:01:54] [main/INFO]: Initialize mod Library Ferret
+[00:01:54] [main/INFO]: Initialized mod Library Ferret
+[00:01:55] [main/INFO]: Constructing common components for puzzleslib:main
+[00:01:55] [main/INFO]: Updated config file at /workspaces/super-octo-doodle/servidor_minecraft/config/rightclickharvest.json5
+[00:01:55] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[00:01:55] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[00:01:55] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[00:01:55] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[00:01:56] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
+[00:01:57] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[00:01:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:01:57] [main/INFO]: Collected 0 data resources in 81.192608ms:
 
-[22:09:31] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[22:09:33] [main/INFO]: Loaded 2519 recipes
-[22:09:33] [main/INFO]: Loaded 2064 advancements
-[22:09:33] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
-[22:09:34] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
-[22:09:34] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
-[22:09:34] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
-[22:09:34] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 28.42 ms
-[22:09:34] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[22:09:34] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[22:09:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[22:09:34] [Server thread/INFO]: Loading properties
-[22:09:34] [Server thread/INFO]: Default game type: SURVIVAL
-[22:09:34] [Server thread/INFO]: Generating keypair
-[22:09:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:09:34] [Server thread/INFO]: Using epoll channel type
-[22:09:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:09:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:09:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:09:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:09:34] [Server thread/INFO]: Preparing level "world"
-[22:09:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:39] [Server thread/INFO]: Time elapsed: 4581 ms
-[22:09:39] [Server thread/INFO]: Done (5.231s)! For help, type "help"
-[22:09:39] [Server thread/WARN]: Dedicated server took 25.043 seconds to load
-[22:09:39] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:09:39] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[22:09:39] [Server thread/INFO]: [REI] Plugins (3):
-[22:09:39] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:09:39] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[22:09:39] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:09:39] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[22:09:39] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.210 ms, totaling 60.42 ms.
-[22:09:39] [Server thread/INFO]: [REI] ----------------------------------------
-[22:09:39] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[22:09:39] [Server thread/INFO]: [REI] Plugins (3):
-[22:09:39] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[22:09:39] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[22:09:39] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[22:09:39] [Server thread/INFO]: [REI] ----------------------------------------
-[22:09:40] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.191 ms, totaling 84.96 ms.
-[22:09:40] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[22:09:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[22:09:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[22:09:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[22:09:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[22:09:40] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[22:09:40] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[22:09:40] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[22:09:40] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[22:09:40] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@1ecada16 for service interface journeymap.api.services.ClientPlatformService
-[22:09:40] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@14f54940 for service interface journeymap.api.services.CommonPlatformService
-[22:09:40] [Server thread/INFO]: global (FirstLoaded) Setting config file to version "6.0.0-beta.43": journeymap.server.global.config
-[22:09:40] [Server thread/INFO]: global (Valid) Creating config file: journeymap/server/6.0/journeymap.server.global.config
-[22:09:40] [Server thread/INFO]: default (FirstLoaded) Setting config file to version "6.0.0-beta.43": journeymap.server.default.config
-[22:09:40] [Server thread/INFO]: default (Valid) Creating config file: journeymap/server/6.0/journeymap.server.default.config
-[22:09:40] [Server thread/INFO]: minecraft~overworld (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~overworld.config
-[22:09:40] [Server thread/INFO]: minecraft~the_end (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~the_end.config
-[22:09:40] [Server thread/INFO]: minecraft~the_nether (Valid) Creating config file: journeymap/server/6.0/journeymap.server.minecraft~the_nether.config
-[22:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8682ms or 173 ticks behind
-[22:10:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:11:07] [Server thread/INFO]: SrLipord[/127.163.204.157:36855] logged in with entity id 130 at (-525.5, 100.0, -231.5)
-[22:11:07] [Server thread/INFO]: SrLipord joined the game
-[22:11:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[22:11:20] [Server thread/INFO]: Made SrLipord a server operator
-[22:11:21] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[22:11:26] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[22:13:39] [Server thread/INFO]: [SrLipord: Set the world spawn point to -660, 74, 147 [0.0]]
-[22:14:12] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:52157] logged in with entity id 3343 at (-665.5, 74.0, 149.5)
-[22:14:12] [Server thread/INFO]: xXTHEONEXx joined the game
-[22:14:13] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[22:14:25] [Server thread/INFO]: Gathooo[/127.47.238.219:39629] logged in with entity id 3372 at (-650.5, 75.0, 139.5)
-[22:14:25] [Server thread/INFO]: Gathooo joined the game
-[22:14:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[22:15:21] [Server thread/INFO]: Gathooo was slain by SrLipord
-[22:15:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[22:15:34] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[22:16:32] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[22:16:44] [Server thread/INFO]: Vector[/127.193.171.90:60201] logged in with entity id 3675 at (-651.5, 69.0, 157.5)
-[22:16:44] [Server thread/INFO]: Vector joined the game
-[22:16:45] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[22:16:47] [Server thread/INFO]: [Chunky] Task finished for minecraft:overworld. Processed: 225 chunks (100.00%), Total time: 0:00:00
-[22:17:21] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[22:17:23] [Server thread/INFO]: Vector was slain by SrLipord
-[22:17:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[22:18:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[22:18:30] [Server thread/INFO]: [SrLipord: Set own game mode to Adventure Mode]
-[22:18:30] [Server thread/INFO]: [SrLipord: Set xXTHEONEXx's game mode to Adventure Mode]
-[22:18:30] [Server thread/INFO]: [SrLipord: Set Gathooo's game mode to Adventure Mode]
-[22:18:30] [Server thread/INFO]: [SrLipord: Set Vector's game mode to Adventure Mode]
-[22:18:33] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[22:18:35] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
-[22:18:53] [Server thread/INFO]: [SrLipord: Set own game mode to Adventure Mode]
-[22:19:00] [Server thread/INFO]: [SrLipord: Teleported Gathooo to SrLipord]
-[22:19:05] [Server thread/INFO]: [SrLipord: Teleported 4 entities to SrLipord]
-[22:19:12] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[22:19:36] [Server thread/INFO]: [SrLipord: Teleported 4 entities to SrLipord]
-[22:19:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[22:20:04] [Server thread/INFO]: [SrLipord: Stopping the server]
-[22:20:04] [Server thread/INFO]: Stopping server
-[22:20:04] [Server thread/INFO]: Saving players
-[22:20:04] [Server thread/INFO]: SrLipord lost connection: Server closed
-[22:20:04] [Server thread/INFO]: SrLipord left the game
-[22:20:04] [Server thread/INFO]: Gathooo lost connection: Server closed
-[22:20:04] [Server thread/INFO]: Gathooo left the game
-[22:20:04] [Server thread/INFO]: Saving worlds
-[22:20:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:20:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:20:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:20:07] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
-[22:20:07] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[00:01:58] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[00:02:01] [main/INFO]: Loaded 2519 recipes
+[00:02:01] [main/INFO]: Loaded 2064 advancements
+[00:02:01] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
+[00:02:01] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
+[00:02:01] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
+[00:02:01] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
+[00:02:01] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 20.07 ms
+[00:02:01] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[00:02:01] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[00:02:01] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:02:01] [Server thread/INFO]: Loading properties
+[00:02:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:01] [Server thread/INFO]: Generating keypair
+[00:02:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:01] [Server thread/INFO]: Using epoll channel type
+[00:02:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:01] [Server thread/INFO]: Preparing level "world"
+[00:02:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:02:02] [Server thread/INFO]: Time elapsed: 462 ms
+[00:02:02] [Server thread/INFO]: Done (0.978s)! For help, type "help"
+[00:02:02] [Server thread/WARN]: Dedicated server took 37.924 seconds to load
+[00:02:03] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at knot/com.google.common.base.Preconditions.checkState(Preconditions.java:513) ~[guava-33.3.1-jre.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:899) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at knot/net.minecraft.server.MinecraftServer.method_49384(MinecraftServer.java:896) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:681) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:02:03] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[00:02:03] [Server thread/INFO]: [REI] Plugins (3):
+[00:02:03] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[00:02:03] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[00:02:03] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:02:03] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.997 ms, totaling 80.10 ms.
+[00:02:03] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[00:02:03] [Server thread/INFO]: [REI] Plugins (3):
+[00:02:03] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[00:02:03] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[00:02:03] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[00:02:03] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.322 ms, totaling 99.80 ms.
+[00:02:03] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[00:02:03] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[00:02:03] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[00:02:03] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[00:02:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@20134561 for service interface journeymap.api.services.ClientPlatformService
+[00:02:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4d00ea51 for service interface journeymap.api.services.CommonPlatformService
+[00:02:22] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:59433] logged in with entity id 171 at (-656.5304684769878, 75.0, 146.48603349963216)
+[00:02:22] [Server thread/INFO]: xXTHEONEXx joined the game
+[00:02:24] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
+[00:02:24] [Server thread/INFO]: Luna_trix[/127.220.222.95:58935] logged in with entity id 234 at (-661.5, 74.0, 148.5)
+[00:02:24] [Server thread/INFO]: Luna_trix joined the game
+[00:02:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[00:02:26] [Server thread/INFO]: SrLipord[/127.163.204.157:60979] logged in with entity id 284 at (-653.552305313224, 74.0, 144.9525077256803)
+[00:02:27] [Server thread/INFO]: SrLipord joined the game
+[00:02:27] [Server thread/INFO]: Vector[/127.193.171.90:42163] logged in with entity id 285 at (-656.5488470425942, 76.24918707874468, 142.47196779040576)
+[00:02:27] [Server thread/INFO]: Vector joined the game
+[00:02:28] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[00:02:28] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[00:03:12] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[00:03:18] [Server thread/INFO]: [SrLipord: Set xXTHEONEXx's game mode to Survival Mode]
+[00:03:18] [Server thread/INFO]: [SrLipord: Set Vector's game mode to Survival Mode]
+[00:03:31] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
+[00:03:36] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
+[00:04:04] [Server thread/INFO]: Gathooo (/127.47.238.219:57937) lost connection: Disconnected
+[00:04:11] [Server thread/INFO]: [SrLipord: Set the time to 0]
+[00:04:18] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
+[00:04:24] [Server thread/INFO]: TheDarielito[/127.148.126.171:57141] logged in with entity id 760 at (-650.5, 73.0, 147.5)
+[00:04:24] [Server thread/INFO]: TheDarielito joined the game
+[00:04:26] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[00:04:40] [Server thread/INFO]: Gathooo[/127.47.238.219:44245] logged in with entity id 776 at (-660.0955421478476, 74.0, 155.80373919198576)
+[00:04:40] [Server thread/INFO]: Gathooo joined the game
+[00:04:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[00:05:36] [Server thread/INFO]: [SrLipord: Teleported 6 entities to SrLipord]
+[00:05:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[00:05:49] [Server thread/INFO]: [SrLipord: Teleported 6 entities to SrLipord]
+[00:06:05] [Server thread/INFO]: KHPL707[/127.73.22.10:59611] logged in with entity id 1399 at (-667.5, 74.0, 148.5)
+[00:06:05] [Server thread/INFO]: KHPL707 joined the game
+[00:06:05] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
+[00:06:07] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[00:06:21] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
+[00:06:32] [Server thread/INFO]: Jhoec[/127.182.93.252:46425] logged in with entity id 1506 at (-660.5, 74.0, 144.5)
+[00:06:32] [Server thread/INFO]: Jhoec joined the game
+[00:06:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:06:35] [Server thread/INFO]: [SrLipord: Set the time to 22500]
+[00:06:53] [Server thread/INFO]: [SrLipord: Set the time to 22500]
+[00:06:53] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[00:06:53] [Server thread/INFO]: Jhoec left the game
+[00:06:57] [Server thread/INFO]: [SrLipord: Teleported 7 entities to SrLipord]
+[00:07:13] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[00:08:19] [Server thread/INFO]: Jhoec[/127.182.93.252:57979] logged in with entity id 1609 at (-693.6634881723379, 69.0, 172.7986517888379)
+[00:08:19] [Server thread/INFO]: Jhoec joined the game
+[00:08:20] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:08:21] [Server thread/INFO]: [SrLipord: Set the time to 22500]
+[00:08:28] [Server thread/INFO]: [SrLipord: Set the time to 22000]
+[00:08:31] [Server thread/INFO]: [SrLipord: Teleported 8 entities to SrLipord]
+[00:08:51] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[00:09:00] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:09:05] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[00:09:17] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[00:10:54] [Server thread/INFO]: [SrLipord: Set the time to 22000]
+[00:10:58] [Server thread/INFO]: [SrLipord: Set the time to 22500]
+[00:11:07] [Server thread/INFO]: [Not Secure] <TheDarielito> Edenorteeeeeeeeee!
+[00:11:12] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> xd
+[00:11:20] [Server thread/INFO]: [Not Secure] <Jhoec> TORTA DE PLATANO

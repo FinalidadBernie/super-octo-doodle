@@ -1,47 +1,4 @@
 {
-  "terrestria:recipes/transportation/rainbow_eucalyptus_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "terrestria:recipes/transportation/japanese_maple_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-13 22:19:09 +0000",
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-04-13 22:18:25 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-04-13 22:14:25 +0000"
@@ -66,9 +23,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "incendium:technical/new_player": {
     "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
+      "requirement": "2025-04-13 22:14:25 +0000"
+    },
+    "done": true
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-04-13 22:14:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-04-13 22:14:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-13 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-13 22:18:25 +0000"
     },
     "done": true
   },
@@ -90,27 +95,9 @@
     },
     "done": true
   },
-  "terrestria:recipes/transportation/yucca_palm_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
     },
     "done": true
   },
@@ -120,81 +107,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "terrestria:recipes/transportation/cypress_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "terrestria:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
-    },
-    "done": true
-  },
-  "terrestria:recipes/transportation/rubber_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "terrestria:recipes/transportation/hemlock_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-04-13 22:14:25 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
     },
     "done": true
   },
@@ -204,45 +119,15 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
-    },
-    "done": false
-  },
-  "terrestria:recipes/transportation/sakura_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
-    },
-    "done": true
-  },
-  "terrestria:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
     },
     "done": true
   },
@@ -264,12 +149,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
@@ -288,59 +167,11 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-13 22:15:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-13 22:19:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-04-13 22:14:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
     },
     "done": true
-  },
-  "senti:tick": {
-    "criteria": {
-      "requirement": "2025-04-13 22:14:25 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:19:08 +0000"
-    },
-    "done": false
   },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
@@ -348,15 +179,111 @@
     },
     "done": true
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-13 22:14:26 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-13 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/japanese_maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/yucca_palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rubber_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/hemlock_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-13 22:19:00 +0000"
     },
     "done": true
   },
