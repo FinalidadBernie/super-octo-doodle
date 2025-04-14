@@ -424,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-14 01:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
@@ -505,6 +511,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-14 01:19:26 +0000"
     },
     "done": true
   },
@@ -887,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-14 01:09:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:45 +0000"
@@ -898,6 +916,12 @@
       "has_smithing_trim_template": "2025-04-14 00:56:53 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-04-14 01:21:06 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
@@ -1016,6 +1040,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-14 01:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-14 01:21:06 +0000"
     },
     "done": true
   },
@@ -1235,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-14 01:09:27 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 01:00:49 +0000"
@@ -1328,6 +1364,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:13:11 +0000"
     },
     "done": true
   },
@@ -1533,7 +1575,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-14 00:52:05 +0000",
       "cooked_chicken": "2025-04-14 00:36:58 +0000",
-      "cooked_beef": "2025-04-14 00:43:55 +0000"
+      "cooked_beef": "2025-04-14 00:43:55 +0000",
+      "baked_potato": "2025-04-14 01:18:22 +0000"
     },
     "done": false
   },
@@ -1570,6 +1613,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-04-14 01:19:16 +0000"
     },
     "done": true
   },

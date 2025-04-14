@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-14 01:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-14 00:30:30 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-14 01:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:15:27 +0000"
@@ -194,6 +206,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-14 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:11:08 +0000"
     },
     "done": true
   },
@@ -386,7 +404,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-04-14 00:55:12 +0000",
-      "minecraft:zombie": "2025-04-14 00:42:04 +0000"
+      "minecraft:zombie": "2025-04-14 00:42:04 +0000",
+      "minecraft:creeper": "2025-04-14 01:09:18 +0000"
     },
     "done": false
   },
@@ -654,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:11:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:50:05 +0000"
@@ -705,6 +730,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-04-14 00:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:11:08 +0000"
     },
     "done": true
   },

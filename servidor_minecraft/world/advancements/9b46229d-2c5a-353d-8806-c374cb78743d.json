@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-14 01:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-14 00:12:53 +0000"
@@ -318,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-14 01:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-14 00:12:53 +0000"
@@ -429,6 +441,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-14 00:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-14 01:08:52 +0000"
     },
     "done": true
   },
@@ -588,6 +606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-14 01:12:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-14 00:12:53 +0000"
@@ -618,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-14 01:12:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-14 00:20:00 +0000"
@@ -633,6 +663,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 01:09:55 +0000"
     },
     "done": true
   },
@@ -936,6 +972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-14 01:09:07 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-04-14 00:22:35 +0000"
@@ -1164,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 01:09:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-14 00:18:38 +0000"
@@ -1186,6 +1234,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-14 01:02:53 +0000",
       "mutton": "2025-04-14 00:28:46 +0000",
+      "bread": "2025-04-14 01:13:49 +0000",
       "cooked_mutton": "2025-04-14 00:35:22 +0000"
     },
     "done": false
