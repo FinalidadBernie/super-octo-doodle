@@ -424,3 +424,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22:58:02] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
 [22:58:11] [Server thread/INFO]: [Gathooo: Teleported Gathooo to KHPL707]
 [23:02:10] [Server thread/INFO]: [Not Secure] <KHPL707> tqw
+[23:10:14] [Server thread/INFO]: Gathooo was slain by Zombie
+[23:10:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[23:10:22] [Server thread/INFO]: Gathooo teleported to 932.5 74.0 -933.5 minecraft:overworld
+[23:11:15] [Server thread/INFO]: KHPL707 lost connection: Disconnected
+[23:11:15] [Server thread/INFO]: KHPL707 left the game
+[23:15:09] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]

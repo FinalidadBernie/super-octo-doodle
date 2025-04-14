@@ -992,6 +992,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-04-14 00:31:50 +0000",
       "minecraft:skeleton": "2025-04-14 00:43:24 +0000",
+      "minecraft:phantom": "2025-04-14 23:10:37 +0000",
       "minecraft:spider": "2025-04-14 00:26:20 +0000",
       "minecraft:zombie": "2025-04-14 00:35:25 +0000",
       "minecraft:creeper": "2025-04-14 00:29:46 +0000"
@@ -1049,6 +1050,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-14 02:22:59 +0000",
+      "bread": "2025-04-14 23:09:59 +0000",
       "cooked_mutton": "2025-04-14 00:58:16 +0000",
       "glow_berries": "2025-04-14 01:13:49 +0000",
       "cooked_beef": "2025-04-14 00:30:52 +0000",
@@ -2112,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-14 23:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 23:04:44 +0000"
@@ -2121,6 +2129,12 @@
   "packedup:recipes/misc/obsidian_from_diamond": {
     "criteria": {
       "recipe_condition": "2025-04-14 22:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-14 23:13:47 +0000"
     },
     "done": true
   },
@@ -2220,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-14 23:08:27 +0000"
+    },
+    "done": true
+  },
   "packedup:diamond_backpack": {
     "criteria": {
       "has_backpack": "2025-04-14 22:49:51 +0000"
@@ -2235,6 +2255,18 @@
   "packedup:recipes/misc/diamond_from_gold": {
     "criteria": {
       "recipe_condition": "2025-04-14 22:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-14 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-14 23:13:47 +0000"
     },
     "done": true
   },
@@ -2313,6 +2345,18 @@
   "terrestria:recipes/transportation/rubber_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 23:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-14 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-14 23:10:08 +0000"
     },
     "done": true
   },
