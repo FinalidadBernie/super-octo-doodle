@@ -56,7 +56,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-13 22:26:25 +0000",
-      "minecraft:river": "2025-04-14 00:14:47 +0000"
+      "minecraft:river": "2025-04-14 00:14:47 +0000",
+      "minecraft:plains": "2025-04-14 00:28:19 +0000"
     },
     "done": false
   },
@@ -75,6 +76,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-14 00:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-14 00:17:50 +0000"
     },
     "done": true
   },
@@ -114,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:19:47 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/redstone/cypress_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
@@ -147,6 +160,12 @@
   "terrestria:recipes/transportation/japanese_maple_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:19:47 +0000"
     },
     "done": true
   },
@@ -228,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-14 00:23:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
@@ -237,6 +262,12 @@
   "terrestria:recipes/building_blocks/cypress_slab": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-14 00:18:37 +0000"
     },
     "done": true
   },
@@ -255,6 +286,12 @@
   "terrestria:recipes/redstone/cypress_door": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-14 00:27:00 +0000"
     },
     "done": true
   },
@@ -282,6 +319,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-14 00:25:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-14 00:13:15 +0000"
@@ -297,6 +340,12 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-14 00:19:22 +0000"
     },
     "done": true
   },
@@ -372,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 00:26:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
@@ -393,6 +448,12 @@
   "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-14 00:18:37 +0000"
     },
     "done": true
   },
@@ -426,6 +487,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-14 00:20:28 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-04-14 00:17:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
@@ -441,6 +514,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-14 00:19:22 +0000"
     },
     "done": true
   },
@@ -504,6 +583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-14 00:12:39 +0000"
@@ -525,6 +610,12 @@
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-14 00:20:28 +0000"
     },
     "done": true
   },
@@ -561,6 +652,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-14 00:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-14 00:25:11 +0000"
     },
     "done": true
   },
@@ -618,6 +715,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-14 00:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-14 00:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
@@ -645,6 +754,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-14 00:26:43 +0000"
     },
     "done": true
   },
@@ -699,6 +814,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-14 00:21:01 +0000"
     },
     "done": true
   },

@@ -55,7 +55,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-04-14 00:06:33 +0000"
+      "minecraft:beach": "2025-04-14 00:06:33 +0000",
+      "minecraft:river": "2025-04-14 00:18:29 +0000",
+      "minecraft:plains": "2025-04-14 00:24:30 +0000"
     },
     "done": false
   },
@@ -74,6 +76,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-14 00:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-14 00:18:16 +0000"
     },
     "done": true
   },
@@ -107,6 +115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:18:20 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/redstone/cypress_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:14 +0000"
@@ -134,6 +148,12 @@
   "terrestria:recipes/transportation/japanese_maple_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:18:20 +0000"
     },
     "done": true
   },
@@ -221,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:22:45 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/redstone/cypress_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:14 +0000"
@@ -236,6 +262,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-14 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-14 00:21:34 +0000"
     },
     "done": true
   },
@@ -260,6 +292,12 @@
   "terrestria:recipes/redstone/cypress_door": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-14 00:26:35 +0000"
     },
     "done": true
   },
@@ -383,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-14 00:21:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:09:41 +0000"
@@ -395,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-14 00:20:25 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:09:33 +0000"
@@ -404,6 +454,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:22:45 +0000"
     },
     "done": true
   },
@@ -449,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-14 00:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-14 00:12:37 +0000"
@@ -470,6 +532,18 @@
   "terrestria:recipes/redstone/cypress_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-14 00:20:25 +0000"
     },
     "done": true
   },
@@ -518,6 +592,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-14 00:18:20 +0000"
     },
     "done": true
   },
