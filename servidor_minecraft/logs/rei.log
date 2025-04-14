@@ -735,3 +735,5 @@ java.lang.Throwable
 [02:15:56] [Server thread/DEBUG] [REI] Player KHPL707 has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.
 [02:23:22] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 7A2D1AF100000001]
 [02:23:22] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.
+[02:36:58] [Server thread/DEBUG] [REI] Player Vector has outdated displays version 0 [latest version: 7A2D1AF100000001]
+[02:36:58] [Server thread/DEBUG] [REI] Player Vector has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.

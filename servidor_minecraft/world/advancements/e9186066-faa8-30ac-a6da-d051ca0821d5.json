@@ -921,6 +921,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-04-14 02:34:22 +0000",
       "apple": "2025-04-14 01:39:11 +0000",
       "bread": "2025-04-14 01:30:43 +0000",
       "cooked_chicken": "2025-04-14 00:37:13 +0000",
@@ -1066,6 +1067,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-14 02:39:47 +0000",
       "minecraft:spider": "2025-04-14 00:42:27 +0000",
       "minecraft:zombie": "2025-04-14 01:10:42 +0000",
       "minecraft:drowned": "2025-04-14 01:32:50 +0000",
@@ -1773,6 +1775,54 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-14 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-14 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-14 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-04-14 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-14 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-14 02:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-14 02:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-14 02:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-14 02:33:31 +0000"
     },
     "done": true
   },

@@ -941,8 +941,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-04-14 02:35:19 +0000",
       "minecraft:skeleton": "2025-04-14 02:28:12 +0000",
-      "minecraft:zombie": "2025-04-14 00:24:51 +0000"
+      "minecraft:zombie": "2025-04-14 00:24:51 +0000",
+      "minecraft:creeper": "2025-04-14 02:40:04 +0000"
     },
     "done": false
   },
@@ -2210,6 +2212,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-14 02:40:11 +0000"
     },
     "done": true
   },
