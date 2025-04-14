@@ -575,3 +575,60 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [00:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6804ms or 136 ticks behind
 [00:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
 [00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[00:31:56] [Server thread/INFO]: Luna_trix has made the advancement [Monster Hunter]
+[00:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
+[00:32:05] [Server thread/INFO]: SrLipord was slain by Vindicator
+[00:32:06] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[00:32:21] [Server thread/INFO]: SrLipord teleported to -1565.5 125.0 -172.5 minecraft:overworld
+[00:32:44] [Server thread/INFO]: [SrLipord: Teleported Vector to SrLipord]
+[00:32:46] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -0.19741142001930712,0.0,-10.398123094882521
+[00:32:46] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of Jhoec) moved too quickly! 10.045718484504835,0.0,-2.691053868174663
+[00:32:46] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -0.20500416694312662,0.0,-10.79805090622449
+[00:34:12] [Server thread/INFO]: Gathooo has made the advancement [Diamonds!]
+[00:34:58] [Server thread/INFO]: Vector has made the advancement [Suit Up]
+[00:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[00:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[00:35:59] [Server thread/INFO]: KHPL707 has made the advancement [Acquire Hardware]
+[00:36:09] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
+[00:36:09] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[00:36:09] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:41) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:20) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4811ms or 96 ticks behind
+[00:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[00:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
+[00:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4511ms or 90 ticks behind
+[00:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[00:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4979ms or 99 ticks behind
+[00:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
+[00:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[00:38:37] [Server thread/INFO]: Gathooo has made the advancement [Suit Up]
+[00:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[00:39:07] [Server thread/INFO]: SrLipord has made the advancement [Isn't It Iron Pick]
+[00:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
+[00:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
+[00:39:40] [Server thread/INFO]: SrLipord has made the advancement [Packing Up!]
+[00:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[00:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4608ms or 92 ticks behind
+[00:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
+[00:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6039ms or 120 ticks behind
+[00:41:09] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[00:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
+[00:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[00:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5483ms or 109 ticks behind

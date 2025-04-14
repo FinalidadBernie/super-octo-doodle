@@ -57,7 +57,8 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-04-14 00:16:48 +0000",
       "minecraft:beach": "2025-04-13 22:16:45 +0000",
-      "minecraft:river": "2025-04-14 00:13:49 +0000"
+      "minecraft:river": "2025-04-14 00:13:49 +0000",
+      "minecraft:plains": "2025-04-14 00:29:40 +0000"
     },
     "done": false
   },
@@ -130,6 +131,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-14 00:34:58 +0000"
     },
     "done": true
   },
@@ -619,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-14 00:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:01 +0000"
@@ -682,6 +695,12 @@
   "terrestria:recipes/transportation/hemlock_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-14 00:38:32 +0000"
     },
     "done": true
   },
@@ -919,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-14 00:38:32 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:12:27 +0000"
@@ -1128,6 +1153,13 @@
       "has_wood": "2025-04-14 00:14:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2025-04-14 00:28:46 +0000",
+      "cooked_mutton": "2025-04-14 00:35:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {

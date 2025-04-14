@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-14 00:39:05 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:08:51 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-14 00:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:30:30 +0000"
     },
     "done": true
   },
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-14 00:13:52 +0000"
@@ -140,6 +158,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-14 00:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 00:30:28 +0000"
     },
     "done": true
   },
@@ -209,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 00:30:28 +0000"
+    },
+    "done": true
+  },
   "backpacks:tree/root": {
     "criteria": {
       "requirement": "2025-04-14 00:04:24 +0000"
@@ -236,6 +266,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-14 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 00:30:28 +0000"
     },
     "done": true
   },
@@ -359,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-14 00:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:08:51 +0000"
@@ -386,6 +428,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-14 00:30:01 +0000"
     },
     "done": true
   },
@@ -455,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 00:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-14 00:19:42 +0000"
@@ -464,6 +518,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-14 00:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 00:40:26 +0000"
     },
     "done": true
   },
@@ -572,6 +632,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-14 00:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:30:30 +0000"
     },
     "done": true
   },
@@ -700,7 +766,8 @@
       "minecraft:old_growth_birch_forest": "2025-04-14 00:18:46 +0000",
       "minecraft:beach": "2025-04-14 00:04:25 +0000",
       "minecraft:river": "2025-04-14 00:22:12 +0000",
-      "minecraft:birch_forest": "2025-04-14 00:19:35 +0000"
+      "minecraft:birch_forest": "2025-04-14 00:19:35 +0000",
+      "minecraft:plains": "2025-04-14 00:29:40 +0000"
     },
     "done": false
   },
@@ -770,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-04-14 00:33:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:15:27 +0000"
@@ -815,6 +888,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-14 00:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-14 00:40:26 +0000"
     },
     "done": true
   },

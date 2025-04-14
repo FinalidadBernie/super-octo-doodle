@@ -55,16 +55,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-14 00:30:38 +0000",
       "minecraft:flower_forest": "2025-04-14 00:13:45 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-14 00:05:32 +0000",
       "minecraft:beach": "2025-04-13 22:14:13 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-14 00:24:04 +0000",
       "minecraft:dark_forest": "2025-04-14 00:24:45 +0000",
       "minecraft:forest": "2025-04-14 00:23:14 +0000",
+      "minecraft:deep_ocean": "2025-04-14 00:34:06 +0000",
       "minecraft:river": "2025-04-14 00:23:10 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-14 00:31:03 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-14 00:05:32 +0000",
+      "minecraft:ocean": "2025-04-14 00:32:19 +0000",
       "minecraft:birch_forest": "2025-04-14 00:11:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-14 00:24:58 +0000",
       "minecraft:plains": "2025-04-14 00:11:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-14 00:39:50 +0000",
       "minecraft:pale_garden": "2025-04-14 00:28:06 +0000"
     },
     "done": false
@@ -158,12 +163,6 @@
       "has_planks": "2025-04-13 22:18:11 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-14 00:28:36 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
@@ -273,6 +272,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 00:19:25 +0000"
@@ -288,6 +299,12 @@
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2025-04-14 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
@@ -312,6 +329,12 @@
   "terrestria:recipes/transportation/japanese_maple_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:31:22 +0000"
     },
     "done": true
   },
@@ -393,6 +416,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -447,6 +476,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-14 00:21:36 +0000"
@@ -462,6 +497,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:17:31 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
@@ -483,6 +524,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-14 00:19:54 +0000"
@@ -501,9 +548,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-14 00:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
@@ -516,6 +581,18 @@
   "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -549,6 +626,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-14 00:27:04 +0000"
@@ -558,6 +647,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
     },
     "done": true
   },
@@ -597,6 +692,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/japanese_maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:17:31 +0000"
@@ -624,6 +731,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-14 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
@@ -663,6 +776,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/yucca_palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
@@ -681,9 +800,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-04-14 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -717,6 +848,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
@@ -738,6 +881,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-14 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -777,6 +926,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:10:25 +0000"
@@ -804,6 +965,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -873,9 +1040,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:39:17 +0000"
     },
     "done": true
   },
@@ -897,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -906,6 +1097,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-14 00:10:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -933,6 +1130,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -942,6 +1145,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-04-14 00:20:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -981,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-14 00:19:25 +0000"
@@ -1011,6 +1226,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-14 00:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-14 00:21:36 +0000"
@@ -1023,9 +1250,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/pale_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
@@ -1035,15 +1274,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-14 00:19:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-14 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-04-14 00:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-14 00:30:01 +0000"
     },
     "done": true
   },
@@ -1167,15 +1430,39 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/rubber_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:31:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-14 00:19:25 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-14 00:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -1275,11 +1562,29 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-14 00:22:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:31:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1314,6 +1619,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-14 00:17:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:29:57 +0000"
     },
     "done": true
   },
@@ -1377,9 +1688,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-14 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/hemlock_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-14 00:30:21 +0000"
     },
     "done": true
   },
