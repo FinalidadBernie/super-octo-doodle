@@ -63,11 +63,13 @@
       "minecraft:forest": "2025-04-14 00:23:14 +0000",
       "minecraft:deep_ocean": "2025-04-14 00:34:06 +0000",
       "minecraft:river": "2025-04-14 00:23:10 +0000",
+      "minecraft:snowy_plains": "2025-04-14 01:23:08 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:31:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:05:32 +0000",
       "minecraft:frozen_ocean": "2025-04-14 00:48:15 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-14 00:48:26 +0000",
       "minecraft:ocean": "2025-04-14 00:32:19 +0000",
+      "minecraft:cherry_grove": "2025-04-14 01:23:41 +0000",
       "minecraft:birch_forest": "2025-04-14 00:11:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-14 00:24:58 +0000",
       "minecraft:snowy_beach": "2025-04-14 00:53:06 +0000",
@@ -179,6 +181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-14 00:14:22 +0000"
@@ -206,6 +214,12 @@
   "terrestria:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
     },
     "done": true
   },
@@ -395,6 +409,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -473,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
@@ -515,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-14 00:19:25 +0000"
@@ -530,6 +562,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-14 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 01:32:56 +0000"
     },
     "done": true
   },
@@ -623,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-04-14 00:20:25 +0000"
@@ -656,6 +700,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:32:05 +0000"
     },
     "done": true
   },
@@ -701,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 01:32:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:59:24 +0000"
@@ -743,6 +805,12 @@
     },
     "done": true
   },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 01:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
@@ -776,6 +844,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:38:29 +0000"
     },
     "done": true
   },
@@ -833,6 +907,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_iron": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/yellow_bundle": {
     "criteria": {
       "has_yellow_dye": "2025-04-14 00:20:25 +0000"
@@ -887,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/yucca_palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
@@ -908,6 +1000,12 @@
   "terrestria:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
     },
     "done": true
   },
@@ -1199,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -1271,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-14 01:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -1325,6 +1435,12 @@
     },
     "done": true
   },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-14 01:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -1340,6 +1456,12 @@
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-14 01:26:55 +0000"
     },
     "done": true
   },
@@ -1436,6 +1558,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-14 00:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
     },
     "done": true
   },
@@ -1601,6 +1729,12 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-04-14 01:31:05 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/tools/log_turner": {
     "criteria": {
       "has_sticks": "2025-04-14 00:14:22 +0000"
@@ -1652,6 +1786,12 @@
   "terrestria:recipes/transportation/rubber_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
     },
     "done": true
   },
@@ -1764,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-14 01:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-14 00:19:08 +0000"
@@ -1785,6 +1931,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-14 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-04-14 01:26:55 +0000"
     },
     "done": true
   },
@@ -1933,9 +2085,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-14 00:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-04-14 01:27:09 +0000"
     },
     "done": true
   },

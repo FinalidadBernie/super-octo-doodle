@@ -136,6 +136,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-14 00:17:01 +0000"
@@ -145,6 +151,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-14 00:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-14 01:32:10 +0000"
     },
     "done": true
   },
@@ -184,6 +196,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-14 01:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:35:59 +0000"
@@ -205,6 +223,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -268,6 +292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-14 01:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:36:03 +0000"
@@ -307,6 +337,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -364,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 01:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:45 +0000"
@@ -409,6 +451,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -484,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-14 01:26:59 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/building_blocks/cypress_slab": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
@@ -520,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-14 01:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
@@ -535,6 +595,12 @@
   "terrestria:recipes/building_blocks/cypress_planks": {
     "criteria": {
       "has_logs": "2025-04-14 00:12:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -588,8 +654,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-14 01:35:34 +0000",
       "minecraft:spider": "2025-04-14 00:42:55 +0000",
-      "minecraft:zombie": "2025-04-14 00:25:54 +0000"
+      "minecraft:zombie": "2025-04-14 00:25:54 +0000",
+      "minecraft:drowned": "2025-04-14 01:32:52 +0000"
     },
     "done": false
   },
@@ -620,6 +688,12 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -668,6 +742,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-14 01:37:33 +0000"
     },
     "done": true
   },
@@ -773,9 +853,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -806,6 +898,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-14 01:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -1103,6 +1201,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 01:00:49 +0000"
@@ -1241,6 +1345,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/pale_oak": {
     "criteria": {
       "has_the_recipe": "2025-04-14 01:00:49 +0000"
@@ -1270,6 +1380,12 @@
       "has_sherd": "2025-04-14 01:09:27 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
   },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
@@ -1379,6 +1495,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:36:03 +0000"
@@ -1418,6 +1540,12 @@
   "terrestria:recipes/transportation/rubber_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -1463,6 +1591,13 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000",
+      "has_the_recipe": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:35:59 +0000"
@@ -1472,6 +1607,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-04-14 00:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-14 01:32:10 +0000"
     },
     "done": true
   },
@@ -1575,6 +1716,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-14 00:52:05 +0000",
       "cooked_chicken": "2025-04-14 00:36:58 +0000",
+      "cooked_mutton": "2025-04-14 01:31:13 +0000",
       "cooked_beef": "2025-04-14 00:43:55 +0000",
       "baked_potato": "2025-04-14 01:18:22 +0000"
     },
@@ -1619,6 +1761,12 @@
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2025-04-14 01:19:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
     },
     "done": true
   },
@@ -1706,9 +1854,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 01:38:31 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/building_blocks/cypress_stairs": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-14 01:38:19 +0000"
     },
     "done": true
   },
