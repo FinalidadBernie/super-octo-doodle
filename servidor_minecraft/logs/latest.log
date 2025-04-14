@@ -632,3 +632,110 @@ java.lang.NullPointerException: Cannot read field "field_55576" because "furnace
 [00:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
 [00:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
 [00:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5483ms or 109 ticks behind
+[00:42:04] [Server thread/INFO]: TheDarielito has made the advancement [Monster Hunter]
+[00:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10089ms or 201 ticks behind
+[00:42:27] [Server thread/INFO]: Jhoec has made the advancement [Monster Hunter]
+[00:42:29] [Server thread/INFO]: Jhoec was slain by Spider
+[00:42:31] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[00:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7911ms or 158 ticks behind
+[00:43:15] [Server thread/INFO]: Gathooo has made the advancement [Not Today, Thank You]
+[00:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7110ms or 142 ticks behind
+[00:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9381ms or 187 ticks behind
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272004108
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 10.261291616193603,0.0,-1.1335327338865682
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 10.636405271992771,0.0,-1.2557191218220396
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.09732974584494514,0.0,10.799549590158108
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10093455124660977,0.0,11.199532908312108
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.008498686213443,0.0,-1.3859442553612098
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.377191245990161,0.0,-1.5245240913291127
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.1045393566482744,0.0,11.599516226466108
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.741781844286834,0.0,-1.6721872522175545
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10814416204993904,0.0,11.999499544620107
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.101252788479087,0.0,-1.8299405006919187
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.11174896745160368,0.0,12.399482862774107
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.454734462450233,0.0,-1.9984236691789192
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.11535377285326831,0.0,12.799466180928107
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.801507903004222,0.0,-2.1779825850717316
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272003995
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.074647400890626,0.0,-6.288017716727154
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.09732974584494514,0.0,10.799549590157994
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.29580203052592,0.0,-6.611473927706356
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10093455124660977,0.0,11.199532908311994
+[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.516865912832145,0.0,-6.935974800911026
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.1045393566482744,0.0,11.599516226465994
+[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272003995
+[00:44:13] [Server thread/INFO]: [Not Secure] <TheDarielito> Optimicen la Canaima
+[00:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10227ms or 204 ticks behind
+[00:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
+[00:44:52] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[00:44:52] [Server thread/INFO]: Jhoec left the game
+[00:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7017ms or 140 ticks behind
+[00:45:02] [Server thread/INFO]: Gathooo was slain by Zombie
+[00:45:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[00:45:10] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
+[00:45:16] [Server thread/INFO]: Gathooo teleported to -146.5 -12.0 137.5 minecraft:overworld
+[00:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5630ms or 112 ticks behind
+[00:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
+[00:45:57] [Server thread/INFO]: SrLipord has made the advancement [Monster Hunter]
+[00:45:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
+[00:46:09] [Server thread/INFO]: Jhoec[/127.182.93.252:53715] logged in with entity id 57873 at (-463.5418890232141, 91.0, -287.2998526170605)
+[00:46:09] [Server thread/INFO]: Jhoec joined the game
+[00:46:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:46:15] [Server thread/INFO]: Jhoec was slain by Zombie
+[00:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
+[00:46:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
+[00:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[00:47:04] [Server thread/INFO]: Jhoec was slain by Zombie
+[00:47:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[00:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5595ms or 111 ticks behind
+[00:47:18] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
+[00:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7409ms or 148 ticks behind
+[00:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8057ms or 161 ticks behind
+[00:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[00:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
+[00:48:49] [Server thread/INFO]: Gathooo has made the advancement [The Cutest Predator]
+[00:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6651ms or 133 ticks behind
+[00:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6499ms or 129 ticks behind
+[00:49:48] [Server thread/INFO]: Villager class_1646['Unemployed'/61443, l='ServerLevel[world]', x=-1934.30, y=121.00, z=-458.67] died, message: 'Unemployed was slain by Zombie'
+[00:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
+[00:50:05] [Server thread/INFO]: TheDarielito has made the advancement [Acquire Hardware]
+[00:50:07] [Server thread/INFO]: Villager class_1646['Unemployed'/61442, l='ServerLevel[world]', x=-1934.70, y=124.00, z=-459.48] died, message: 'Unemployed was slain by Zombie'
+[00:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5382ms or 107 ticks behind
+[00:50:11] [Server thread/INFO]: Gathooo has made the advancement [Hot Stuff]
+[00:50:20] [Server thread/INFO]: TheDarielito has made the advancement [Suit Up]
+[00:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
+[00:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[00:51:02] [Server thread/INFO]: Villager class_1646['Nitwit'/38334, l='ServerLevel[world]', x=187.30, y=86.97, z=-1284.30] died, message: 'Nitwit was slain by Jhoec'
+[00:51:05] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[00:51:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5712ms or 114 ticks behind
+[00:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6556ms or 131 ticks behind
+[00:52:06] [Server thread/INFO]: [SrLipord: Set the weather to clear]
+[00:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5279ms or 105 ticks behind

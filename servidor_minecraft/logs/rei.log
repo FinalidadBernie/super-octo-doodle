@@ -711,3 +711,5 @@ java.lang.Throwable
 [00:27:58] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.
 [00:28:18] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: 7A2D1AF100000001]
 [00:28:18] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.
+[00:46:09] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 7A2D1AF100000001]
+[00:46:09] [Server thread/DEBUG] [REI] Player Jhoec has outdated displays version 0 [latest version: 7A2D1AF100000001], sending reset packet request.

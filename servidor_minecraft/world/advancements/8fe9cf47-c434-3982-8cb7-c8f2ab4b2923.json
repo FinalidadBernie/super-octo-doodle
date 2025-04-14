@@ -154,6 +154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:41:42 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/redstone/cypress_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-14 00:13:51 +0000"
@@ -217,6 +223,12 @@
   "terrestria:recipes/transportation/japanese_maple_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:40:38 +0000"
     },
     "done": true
   },
@@ -319,6 +331,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-14 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:41:42 +0000"
     },
     "done": true
   },
@@ -504,6 +522,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-14 00:42:55 +0000",
       "minecraft:zombie": "2025-04-14 00:25:54 +0000"
     },
     "done": false
@@ -1000,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-14 00:41:42 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-04-14 00:35:59 +0000"
@@ -1108,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-14 00:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-14 00:06:33 +0000"
@@ -1135,6 +1166,12 @@
   "terrestria:recipes/transportation/rubber_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:40:38 +0000"
     },
     "done": true
   },
@@ -1248,9 +1285,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_chicken": "2025-04-14 00:36:58 +0000"
+      "cooked_chicken": "2025-04-14 00:36:58 +0000",
+      "cooked_beef": "2025-04-14 00:43:55 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-14 00:40:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
