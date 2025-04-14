@@ -1755,6 +1755,12 @@
     },
     "done": true
   },
+  "terrestria:recipes/misc/green_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-04-14 22:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 22:18:26 +0000"
@@ -1833,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-14 22:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-14 22:27:34 +0000"
@@ -1866,6 +1878,12 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2025-04-14 22:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-14 22:53:56 +0000"
     },
     "done": true
   },
