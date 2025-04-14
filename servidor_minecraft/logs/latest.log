@@ -1,10 +1,10 @@
-[00:01:33] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
-[00:01:37] [main/WARN]: Warnings were found!
+[22:14:27] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.13
+[22:14:28] [main/WARN]: Warnings were found!
  - Mod 'Bridging Mod' (bridgingmod) 2.6.2+1.21.3 recommends version 12.0.0-beta.1 or later of modmenu, which is missing!
 	 - You should install version 12.0.0-beta.1 or later of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[00:01:37] [main/INFO]: Loading 169 mods:
+[22:14:28] [main/INFO]: Loading 169 mods:
 	- amplified_nether 1.2.7
 	- appleskin 3.0.6+mc1.21.3
 	- architectury 15.0.3
@@ -195,122 +195,123 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[00:01:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/super-octo-doodle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:01:38] [main/INFO]: Compatibility level set to JAVA_21
-[00:01:39] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:39] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
-[00:01:39] [main/INFO]: Applying Nashorn fix
-[00:01:39] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
-[00:01:40] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
-[00:01:40] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[00:01:40] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[00:01:41] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[00:01:41] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[00:01:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:01:46] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[00:01:52] [main/INFO]: Vanilla bootstrap took 9647 milliseconds
-[00:01:52] [main/INFO]: Hello Fabric world!
-[00:01:52] [main/INFO]: Biolith for Fabric is initializing...
-[00:01:52] [main/INFO]: Loading Collective version 8.1.
-[00:01:53] [main/INFO]: Constructing common components for diagonalblocks:main
-[00:01:53] [main/INFO]: Constructing common components for diagonalfences:main
-[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 161ms
-[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 84ms
-[00:01:53] [Cicada thread 0/INFO]: 'id like to browse without fear of being shunned by friends and family'
-[00:01:53] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 116ms
-[00:01:53] [main/INFO]: Constructing common components for easyanvils:main
-[00:01:54] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[00:01:54] [main/INFO]: Constructing common components for easymagic:main
-[00:01:54] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[00:01:54] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[00:01:54] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[00:01:54] [main/INFO]: Initializing JamLib on Fabric
-[00:01:54] [main/INFO]: Initializing ServerSide Packet Registries
-[00:01:54] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[00:01:54] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[00:01:54] [main/INFO]: ---------------------------
-[00:01:54] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[00:01:54] [main/INFO]:  
-[00:01:54] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[00:01:54] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[00:01:54] [main/INFO]:  
-[00:01:54] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[00:01:54] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[00:01:54] [main/INFO]:  
-[00:01:54] [main/INFO]: Json-smart Copyright © netplex.
-[00:01:54] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[00:01:54] [main/INFO]:  
-[00:01:54] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[00:01:54] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[00:01:54] [main/INFO]: ---------------------------
-[00:01:54] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[00:01:54] [main/INFO]: Initialize mod Library Ferret
-[00:01:54] [main/INFO]: Initialized mod Library Ferret
-[00:01:55] [main/INFO]: Constructing common components for puzzleslib:main
-[00:01:55] [main/INFO]: Updated config file at /workspaces/super-octo-doodle/servidor_minecraft/config/rightclickharvest.json5
-[00:01:55] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[00:01:55] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[00:01:55] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[00:01:55] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[00:01:55] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[00:01:56] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
-[00:01:57] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[00:01:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:01:57] [main/INFO]: Collected 0 data resources in 81.192608ms:
+[22:14:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/super-octo-doodle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:14:29] [main/INFO]: Compatibility level set to JAVA_21
+[22:14:29] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'durabilitytooltip.mixins.refmap.json' for durabilitytooltip.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'formationsoverworld.mixins.refmap.json' for formationsoverworld.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:29] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
+[22:14:29] [main/INFO]: Applying Nashorn fix
+[22:14:29] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_458 (java.lang.ClassNotFoundException: net/minecraft/class_458)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_458 was not found crawl.client.mixins.json:ControlsScreenMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_572 was not found crawl.client.mixins.json:HumanoidModelMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_10034 (java.lang.ClassNotFoundException: net/minecraft/class_10034)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_10034 was not found crawl.client.mixins.json:HumanoidRenderStateMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_746 was not found crawl.client.mixins.json:LocalPlayerMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_315 was not found crawl.client.mixins.json:OptionsMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found crawl.client.mixins.json:PlayerRendererMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: dev/tr7zw/firstperson/LogicHandler (java.lang.ClassNotFoundException: dev/tr7zw/firstperson/LogicHandler)
+[22:14:30] [main/WARN]: @Mixin target dev.tr7zw.firstperson.LogicHandler was not found crawl.compat.fpm.mixins.json:LogicHandlerMixin from mod crawl
+[22:14:30] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[22:14:30] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[22:14:31] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[22:14:31] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:14:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:14:37] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[22:14:43] [main/INFO]: Vanilla bootstrap took 10211 milliseconds
+[22:14:43] [main/INFO]: Hello Fabric world!
+[22:14:43] [main/INFO]: Biolith for Fabric is initializing...
+[22:14:43] [main/INFO]: Loading Collective version 8.1.
+[22:14:44] [main/INFO]: Constructing common components for diagonalblocks:main
+[22:14:44] [main/INFO]: Constructing common components for diagonalfences:main
+[22:14:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 160ms
+[22:14:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 52ms
+[22:14:44] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
+[22:14:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 98ms
+[22:14:44] [main/INFO]: Constructing common components for easyanvils:main
+[22:14:44] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[22:14:45] [main/INFO]: Constructing common components for easymagic:main
+[22:14:45] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[22:14:45] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[22:14:45] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[22:14:45] [main/INFO]: Initializing JamLib on Fabric
+[22:14:45] [main/INFO]: Initializing ServerSide Packet Registries
+[22:14:45] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[22:14:45] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[22:14:45] [main/INFO]: ---------------------------
+[22:14:45] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[22:14:45] [main/INFO]:  
+[22:14:45] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[22:14:45] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[22:14:45] [main/INFO]:  
+[22:14:45] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[22:14:45] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[22:14:45] [main/INFO]:  
+[22:14:45] [main/INFO]: Json-smart Copyright © netplex.
+[22:14:45] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[22:14:45] [main/INFO]:  
+[22:14:45] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[22:14:45] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[22:14:45] [main/INFO]: ---------------------------
+[22:14:45] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[22:14:45] [main/INFO]: Initialize mod Library Ferret
+[22:14:45] [main/INFO]: Initialized mod Library Ferret
+[22:14:46] [main/INFO]: Constructing common components for puzzleslib:main
+[22:14:46] [main/INFO]: Updated config file at /workspaces/super-octo-doodle/servidor_minecraft/config/rightclickharvest.json5
+[22:14:46] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[22:14:46] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[22:14:46] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[22:14:46] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[22:14:46] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[22:14:47] [main/INFO]: Enabling Terrestria's Biolith worldgen module.
+[22:14:47] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[22:14:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:14:47] [main/INFO]: Collected 0 data resources in 87.476897ms:
 
-[00:01:58] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[00:02:01] [main/INFO]: Loaded 2519 recipes
-[00:02:01] [main/INFO]: Loaded 2064 advancements
-[00:02:01] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
-[00:02:01] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
-[00:02:01] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
-[00:02:01] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
-[00:02:01] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 20.07 ms
-[00:02:01] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[00:02:01] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[00:02:01] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:02:01] [Server thread/INFO]: Loading properties
-[00:02:01] [Server thread/INFO]: Default game type: SURVIVAL
-[00:02:01] [Server thread/INFO]: Generating keypair
-[00:02:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:02:01] [Server thread/INFO]: Using epoll channel type
-[00:02:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:02:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:02:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:02:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:02:01] [Server thread/INFO]: Preparing level "world"
-[00:02:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:02:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:02:02] [Server thread/INFO]: Time elapsed: 462 ms
-[00:02:02] [Server thread/INFO]: Done (0.978s)! For help, type "help"
-[00:02:02] [Server thread/WARN]: Dedicated server took 37.924 seconds to load
-[00:02:03] [Server thread/ERROR]: Couldn't load server icon
+[22:14:48] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[22:14:51] [main/INFO]: Loaded 2519 recipes
+[22:14:51] [main/INFO]: Loaded 2064 advancements
+[22:14:51] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
+[22:14:51] [main/WARN]: Recipe packedup:diamond_from_silver can't be placed due to empty ingredients and will be ignored
+[22:14:51] [main/WARN]: Recipe packedup:silver_from_copper can't be placed due to empty ingredients and will be ignored
+[22:14:51] [main/WARN]: Recipe packedup:silver_from_iron can't be placed due to empty ingredients and will be ignored
+[22:14:51] [main/INFO]: Applied 510 biome modifications to 168 of 188 new biomes in 20.79 ms
+[22:14:51] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[22:14:51] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[22:14:52] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:14:52] [Server thread/INFO]: Loading properties
+[22:14:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:14:52] [Server thread/INFO]: Generating keypair
+[22:14:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:14:52] [Server thread/INFO]: Using epoll channel type
+[22:14:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:14:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:14:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:14:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:14:52] [Server thread/INFO]: Preparing level "world"
+[22:14:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:14:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:14:53] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[22:14:53] [Server thread/INFO]: Time elapsed: 539 ms
+[22:14:53] [Server thread/INFO]: Done (1.081s)! For help, type "help"
+[22:14:53] [Server thread/WARN]: Dedicated server took 27.304 seconds to load
+[22:14:53] [Server thread/ERROR]: Couldn't load server icon
 java.lang.IllegalStateException: Must be 64 pixels wide
 	at knot/com.google.common.base.Preconditions.checkState(Preconditions.java:513) ~[guava-33.3.1-jre.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:899) ~[server-intermediary.jar:?]
@@ -319,1055 +320,41 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:681) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:02:03] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[00:02:03] [Server thread/INFO]: [REI] Plugins (3):
-[00:02:03] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[00:02:03] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[00:02:03] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[00:02:03] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.997 ms, totaling 80.10 ms.
-[00:02:03] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[00:02:03] [Server thread/INFO]: [REI] Plugins (3):
-[00:02:03] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[00:02:03] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[00:02:03] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[00:02:03] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[00:02:03] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.322 ms, totaling 99.80 ms.
-[00:02:03] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[00:02:03] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[00:02:03] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[00:02:03] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[00:02:03] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[00:02:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@20134561 for service interface journeymap.api.services.ClientPlatformService
-[00:02:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4d00ea51 for service interface journeymap.api.services.CommonPlatformService
-[00:02:22] [Server thread/INFO]: xXTHEONEXx[/127.193.56.197:59433] logged in with entity id 171 at (-656.5304684769878, 75.0, 146.48603349963216)
-[00:02:22] [Server thread/INFO]: xXTHEONEXx joined the game
-[00:02:24] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[00:02:24] [Server thread/INFO]: Luna_trix[/127.220.222.95:58935] logged in with entity id 234 at (-661.5, 74.0, 148.5)
-[00:02:24] [Server thread/INFO]: Luna_trix joined the game
-[00:02:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[00:02:26] [Server thread/INFO]: SrLipord[/127.163.204.157:60979] logged in with entity id 284 at (-653.552305313224, 74.0, 144.9525077256803)
-[00:02:27] [Server thread/INFO]: SrLipord joined the game
-[00:02:27] [Server thread/INFO]: Vector[/127.193.171.90:42163] logged in with entity id 285 at (-656.5488470425942, 76.24918707874468, 142.47196779040576)
-[00:02:27] [Server thread/INFO]: Vector joined the game
-[00:02:28] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[00:02:28] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[00:03:12] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[00:03:18] [Server thread/INFO]: [SrLipord: Set xXTHEONEXx's game mode to Survival Mode]
-[00:03:18] [Server thread/INFO]: [SrLipord: Set Vector's game mode to Survival Mode]
-[00:03:31] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
-[00:03:36] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
-[00:04:04] [Server thread/INFO]: Gathooo (/127.47.238.219:57937) lost connection: Disconnected
-[00:04:11] [Server thread/INFO]: [SrLipord: Set the time to 0]
-[00:04:18] [Server thread/INFO]: [SrLipord: Teleported 4 entities to Vector]
-[00:04:24] [Server thread/INFO]: TheDarielito[/127.148.126.171:57141] logged in with entity id 760 at (-650.5, 73.0, 147.5)
-[00:04:24] [Server thread/INFO]: TheDarielito joined the game
-[00:04:26] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[00:04:40] [Server thread/INFO]: Gathooo[/127.47.238.219:44245] logged in with entity id 776 at (-660.0955421478476, 74.0, 155.80373919198576)
-[00:04:40] [Server thread/INFO]: Gathooo joined the game
-[00:04:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:05:36] [Server thread/INFO]: [SrLipord: Teleported 6 entities to SrLipord]
-[00:05:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:05:49] [Server thread/INFO]: [SrLipord: Teleported 6 entities to SrLipord]
-[00:06:05] [Server thread/INFO]: KHPL707[/127.73.22.10:59611] logged in with entity id 1399 at (-667.5, 74.0, 148.5)
-[00:06:05] [Server thread/INFO]: KHPL707 joined the game
-[00:06:05] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[00:06:07] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[00:06:21] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
-[00:06:32] [Server thread/INFO]: Jhoec[/127.182.93.252:46425] logged in with entity id 1506 at (-660.5, 74.0, 144.5)
-[00:06:32] [Server thread/INFO]: Jhoec joined the game
-[00:06:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:06:35] [Server thread/INFO]: [SrLipord: Set the time to 22500]
-[00:06:53] [Server thread/INFO]: [SrLipord: Set the time to 22500]
-[00:06:53] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[00:06:53] [Server thread/INFO]: Jhoec left the game
-[00:06:57] [Server thread/INFO]: [SrLipord: Teleported 7 entities to SrLipord]
-[00:07:13] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[00:08:19] [Server thread/INFO]: Jhoec[/127.182.93.252:57979] logged in with entity id 1609 at (-693.6634881723379, 69.0, 172.7986517888379)
-[00:08:19] [Server thread/INFO]: Jhoec joined the game
-[00:08:20] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:08:21] [Server thread/INFO]: [SrLipord: Set the time to 22500]
-[00:08:28] [Server thread/INFO]: [SrLipord: Set the time to 22000]
-[00:08:31] [Server thread/INFO]: [SrLipord: Teleported 8 entities to SrLipord]
-[00:08:51] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:09:00] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:09:05] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[00:09:17] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[00:10:54] [Server thread/INFO]: [SrLipord: Set the time to 22000]
-[00:10:58] [Server thread/INFO]: [SrLipord: Set the time to 22500]
-[00:11:07] [Server thread/INFO]: [Not Secure] <TheDarielito> Edenorteeeeeeeeee!
-[00:11:12] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> xd
-[00:11:20] [Server thread/INFO]: [Not Secure] <Jhoec> TORTA DE PLATANO
-[00:11:32] [Server thread/INFO]: [Not Secure] <Vector> si señor
-[00:11:35] [Server thread/INFO]: [Not Secure] <Gathooo> TINI NANA NI NA NA
-[00:11:49] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> xD
-[00:13:42] [Server thread/INFO]: [SrLipord: Made Gathooo a server operator]
-[00:13:42] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:13:53] [Server thread/INFO]: [SrLipord: Made Jhoec a server operator]
-[00:13:53] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:13:54] [Server thread/INFO]: [SrLipord: Made KHPL707 a server operator]
-[00:13:55] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[00:13:59] [Server thread/INFO]: [SrLipord: Made Luna_trix a server operator]
-[00:13:59] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[00:14:01] [Server thread/INFO]: [SrLipord: Made TheDarielito a server operator]
-[00:14:01] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[00:14:02] [Server thread/INFO]: [SrLipord: Made Vector a server operator]
-[00:14:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[00:14:04] [Server thread/INFO]: [SrLipord: Made xXTHEONEXx a server operator]
-[00:14:04] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[00:14:07] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
-[00:14:29] [Server thread/INFO]: SrLipord has made the advancement [Stone Age]
-[00:14:45] [Server thread/INFO]: Vector has made the advancement [Stone Age]
-[00:14:58] [Server thread/INFO]: KHPL707 has made the advancement [Stone Age]
-[00:15:07] [Server thread/INFO]: [SrLipord: The difficulty has been set to Hard]
-[00:15:13] [Server thread/INFO]: SrLipord has made the advancement [Getting an Upgrade]
-[00:15:27] [Server thread/INFO]: TheDarielito has made the advancement [Stone Age]
-[00:15:28] [Server thread/INFO]: Vector has made the advancement [Getting an Upgrade]
-[00:15:40] [Server thread/INFO]: Jhoec has made the advancement [Stone Age]
-[00:16:37] [Server thread/INFO]: Gathooo has made the advancement [Stone Age]
-[00:17:15] [Server thread/INFO]: Gathooo has made the advancement [Getting an Upgrade]
-[00:17:18] [Server thread/INFO]: TheDarielito has made the advancement [Getting an Upgrade]
-[00:17:25] [Server thread/INFO]: xXTHEONEXx has made the advancement [Diamonds!]
-[00:17:29] [Server thread/INFO]: xXTHEONEXx has made the advancement [Acquire Hardware]
-[00:17:32] [Server thread/INFO]: xXTHEONEXx has made the advancement [Ice Bucket Challenge]
-[00:17:35] [Server thread/INFO]: xXTHEONEXx has made the advancement [Suit Up]
-[00:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[00:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[00:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[00:19:08] [Server thread/INFO]: xXTHEONEXx has made the advancement [Stone Age]
-[00:19:14] [Server thread/INFO]: xXTHEONEXx has made the advancement [Isn't It Iron Pick]
-[00:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
-[00:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4730ms or 94 ticks behind
-[00:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
-[00:20:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3718ms or 74 ticks behind
-[00:20:17] [Server thread/INFO]: Luna_trix has made the advancement [Stone Age]
-[00:20:25] [Server thread/INFO]: Jhoec has made the advancement [Getting an Upgrade]
-[00:20:28] [Server thread/INFO]: KHPL707 has made the advancement [Getting an Upgrade]
-[00:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[00:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
-[00:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
-[00:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
-[00:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9298ms or 185 ticks behind
-[00:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7675ms or 153 ticks behind
-[00:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7318ms or 146 ticks behind
-[00:22:35] [Server thread/INFO]: Vector has made the advancement [Acquire Hardware]
-[00:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
-[00:22:55] [Server thread/INFO]: Vector has made the advancement [Isn't It Iron Pick]
-[00:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7110ms or 142 ticks behind
-[00:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
-[00:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
-[00:24:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[00:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
-[00:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
-[00:24:51] [Server thread/INFO]: xXTHEONEXx has made the advancement [Monster Hunter]
-[00:24:56] [Server thread/WARN]: SrLipord moved too quickly! -4.229328215397345,-1.1767592750642422,9.140191421698319
-[00:25:10] [Server thread/INFO]: Luna_trix has made the advancement [Getting an Upgrade]
-[00:25:19] [Server thread/INFO]: Gathooo has made the advancement [Acquire Hardware]
-[00:25:27] [Server thread/INFO]: SrLipord has made the advancement [Acquire Hardware]
-[00:25:38] [Server thread/INFO]: Gathooo has made the advancement [Isn't It Iron Pick]
-[00:25:54] [Server thread/INFO]: KHPL707 has made the advancement [Monster Hunter]
-[00:26:20] [Server thread/INFO]: Gathooo has made the advancement [Monster Hunter]
-[00:26:25] [Server thread/INFO]: TheDarielito has made the advancement [Sweet Dreams]
-[00:26:32] [Server thread/INFO]: Luna_trix has made the advancement [Sweet Dreams]
-[00:26:34] [Server thread/INFO]: Vector has made the advancement [Sweet Dreams]
-[00:26:35] [Server thread/INFO]: Jhoec has made the advancement [Sweet Dreams]
-[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:26:56] [Server thread/INFO]: SrLipord has made the advancement [Sweet Dreams]
-[00:27:00] [Server thread/INFO]: KHPL707 has made the advancement [Sweet Dreams]
-[00:27:04] [Server thread/INFO]: xXTHEONEXx has made the advancement [Sweet Dreams]
-[00:27:21] [Server thread/INFO]: [Not Secure] <TheDarielito> Duerma Don Gato
-[00:27:51] [Server thread/INFO]: Gathooo lost connection: Kicked by an operator
-[00:27:51] [Server thread/INFO]: Gathooo left the game
-[00:27:51] [Server thread/INFO]: [SrLipord: Kicked Gathooo: Kicked by an operator]
-[00:27:51] [Server thread/WARN]: handleDisconnection() called twice
-[00:27:58] [Server thread/INFO]: Gathooo[/127.47.238.219:45851] logged in with entity id 24451 at (-268.439221017759, 24.0, 39.03682774332841)
-[00:27:58] [Server thread/INFO]: Gathooo joined the game
-[00:27:58] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:28:13] [Server thread/INFO]: [Gathooo: Kicked SrLipord: Kicked by an operator]
-[00:28:13] [Server thread/INFO]: SrLipord lost connection: Kicked by an operator
-[00:28:13] [Server thread/INFO]: SrLipord left the game
-[00:28:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1506['Skeleton Horse'/24892, l='ServerLevel[world]', x=-1400.50, y=-44.00, z=-1949.50] as it would cause deadlock
-[00:28:18] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/24894, l='ServerLevel[world]', x=-1400.50, y=-43.00, z=-1949.50]
-[00:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
-[00:28:18] [Server thread/INFO]: SrLipord[/127.163.204.157:46839] logged in with entity id 24914 at (-1469.810194362892, 86.20000004768372, -180.52281421871876)
-[00:28:18] [Server thread/INFO]: SrLipord joined the game
-[00:28:19] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[00:28:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1506['Skeleton Horse'/25218, l='ServerLevel[world]', x=-1400.50, y=-44.00, z=-1956.50] as it would cause deadlock
-[00:28:22] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/25220, l='ServerLevel[world]', x=-1400.50, y=-43.00, z=-1956.50]
-[00:28:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1506['Skeleton Horse'/25222, l='ServerLevel[world]', x=-1401.50, y=-26.00, z=-1956.50] as it would cause deadlock
-[00:28:22] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/25224, l='ServerLevel[world]', x=-1401.50, y=-25.00, z=-1956.50]
-[00:28:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1506['Skeleton Horse'/25227, l='ServerLevel[world]', x=-1384.50, y=-44.00, z=-1954.50] as it would cause deadlock
-[00:28:22] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/25229, l='ServerLevel[world]', x=-1384.50, y=-43.00, z=-1954.50]
-[00:28:22] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1506['Skeleton Horse'/25231, l='ServerLevel[world]', x=-1382.50, y=-32.00, z=-1955.50] as it would cause deadlock
-[00:28:22] [Server thread/WARN]: UUID of added entity already exists: class_1613['Skeleton'/25233, l='ServerLevel[world]', x=-1382.50, y=-31.00, z=-1955.50]
-[00:28:24] [Server thread/INFO]: Gathooo was blown up by Creeper
-[00:28:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:28:35] [Server thread/WARN]: Gathooo moved too quickly! 7.282621965814656,2.0,-11.199999988079071
-[00:28:42] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[00:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12672ms or 253 ticks behind
-[00:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5365ms or 107 ticks behind
-[00:29:06] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:29:23] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
-[00:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
-[00:30:02] [Server thread/INFO]: Vector was slain by SrLipord
-[00:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[00:30:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[00:30:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
-[00:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
-[00:31:01] [Worker-Main-3/WARN]: Couldn't find template pool reference: kaisyn:village/beach_lighthouse/villager_lighthouse_master
-[00:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6804ms or 136 ticks behind
-[00:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
-[00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
-[00:31:56] [Server thread/INFO]: Luna_trix has made the advancement [Monster Hunter]
-[00:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
-[00:32:05] [Server thread/INFO]: SrLipord was slain by Vindicator
-[00:32:06] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[00:32:21] [Server thread/INFO]: SrLipord teleported to -1565.5 125.0 -172.5 minecraft:overworld
-[00:32:44] [Server thread/INFO]: [SrLipord: Teleported Vector to SrLipord]
-[00:32:46] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -0.19741142001930712,0.0,-10.398123094882521
-[00:32:46] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of Jhoec) moved too quickly! 10.045718484504835,0.0,-2.691053868174663
-[00:32:46] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -0.20500416694312662,0.0,-10.79805090622449
-[00:34:12] [Server thread/INFO]: Gathooo has made the advancement [Diamonds!]
-[00:34:58] [Server thread/INFO]: Vector has made the advancement [Suit Up]
-[00:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
-[00:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
-[00:35:59] [Server thread/INFO]: KHPL707 has made the advancement [Acquire Hardware]
-[00:36:09] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
-[00:36:09] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
-[00:36:09] [Server thread/ERROR]: 
-java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:41) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
-	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:20) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
-	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
-	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4811ms or 96 ticks behind
-[00:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
-[00:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
-[00:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4511ms or 90 ticks behind
-[00:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
-[00:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4979ms or 99 ticks behind
-[00:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
-[00:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
-[00:38:37] [Server thread/INFO]: Gathooo has made the advancement [Suit Up]
-[00:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[00:39:07] [Server thread/INFO]: SrLipord has made the advancement [Isn't It Iron Pick]
-[00:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
-[00:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
-[00:39:40] [Server thread/INFO]: SrLipord has made the advancement [Packing Up!]
-[00:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
-[00:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4608ms or 92 ticks behind
-[00:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
-[00:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6039ms or 120 ticks behind
-[00:41:09] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
-[00:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
-[00:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
-[00:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5483ms or 109 ticks behind
-[00:42:04] [Server thread/INFO]: TheDarielito has made the advancement [Monster Hunter]
-[00:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10089ms or 201 ticks behind
-[00:42:27] [Server thread/INFO]: Jhoec has made the advancement [Monster Hunter]
-[00:42:29] [Server thread/INFO]: Jhoec was slain by Spider
-[00:42:31] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
-[00:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7911ms or 158 ticks behind
-[00:43:15] [Server thread/INFO]: Gathooo has made the advancement [Not Today, Thank You]
-[00:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7110ms or 142 ticks behind
-[00:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9381ms or 187 ticks behind
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272004108
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 10.261291616193603,0.0,-1.1335327338865682
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 10.636405271992771,0.0,-1.2557191218220396
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.09732974584494514,0.0,10.799549590158108
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10093455124660977,0.0,11.199532908312108
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.008498686213443,0.0,-1.3859442553612098
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.377191245990161,0.0,-1.5245240913291127
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.1045393566482744,0.0,11.599516226466108
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 11.741781844286834,0.0,-1.6721872522175545
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10814416204993904,0.0,11.999499544620107
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.101252788479087,0.0,-1.8299405006919187
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.11174896745160368,0.0,12.399482862774107
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.454734462450233,0.0,-1.9984236691789192
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.11535377285326831,0.0,12.799466180928107
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 12.801507903004222,0.0,-2.1779825850717316
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272003995
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.074647400890626,0.0,-6.288017716727154
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.09732974584494514,0.0,10.799549590157994
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.29580203052592,0.0,-6.611473927706356
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.10093455124660977,0.0,11.199532908311994
-[00:43:53] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 8.516865912832145,0.0,-6.935974800911026
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.1045393566482744,0.0,11.599516226465994
-[00:43:53] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! 0.0937249404432805,0.0,10.399566272003995
-[00:44:13] [Server thread/INFO]: [Not Secure] <TheDarielito> Optimicen la Canaima
-[00:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10227ms or 204 ticks behind
-[00:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
-[00:44:52] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[00:44:52] [Server thread/INFO]: Jhoec left the game
-[00:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7017ms or 140 ticks behind
-[00:45:02] [Server thread/INFO]: Gathooo was slain by Zombie
-[00:45:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[00:45:10] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[00:45:16] [Server thread/INFO]: Gathooo teleported to -146.5 -12.0 137.5 minecraft:overworld
-[00:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5630ms or 112 ticks behind
-[00:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
-[00:45:57] [Server thread/INFO]: SrLipord has made the advancement [Monster Hunter]
-[00:45:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
-[00:46:09] [Server thread/INFO]: Jhoec[/127.182.93.252:53715] logged in with entity id 57873 at (-463.5418890232141, 91.0, -287.2998526170605)
-[00:46:09] [Server thread/INFO]: Jhoec joined the game
-[00:46:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:46:15] [Server thread/INFO]: Jhoec was slain by Zombie
-[00:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
-[00:46:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
-[00:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[00:47:04] [Server thread/INFO]: Jhoec was slain by Zombie
-[00:47:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5595ms or 111 ticks behind
-[00:47:18] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
-[00:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7409ms or 148 ticks behind
-[00:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8057ms or 161 ticks behind
-[00:48:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
-[00:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
-[00:48:49] [Server thread/INFO]: Gathooo has made the advancement [The Cutest Predator]
-[00:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6651ms or 133 ticks behind
-[00:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6499ms or 129 ticks behind
-[00:49:48] [Server thread/INFO]: Villager class_1646['Unemployed'/61443, l='ServerLevel[world]', x=-1934.30, y=121.00, z=-458.67] died, message: 'Unemployed was slain by Zombie'
-[00:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
-[00:50:05] [Server thread/INFO]: TheDarielito has made the advancement [Acquire Hardware]
-[00:50:07] [Server thread/INFO]: Villager class_1646['Unemployed'/61442, l='ServerLevel[world]', x=-1934.70, y=124.00, z=-459.48] died, message: 'Unemployed was slain by Zombie'
-[00:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5382ms or 107 ticks behind
-[00:50:11] [Server thread/INFO]: Gathooo has made the advancement [Hot Stuff]
-[00:50:20] [Server thread/INFO]: TheDarielito has made the advancement [Suit Up]
-[00:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
-[00:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
-[00:51:02] [Server thread/INFO]: Villager class_1646['Nitwit'/38334, l='ServerLevel[world]', x=187.30, y=86.97, z=-1284.30] died, message: 'Nitwit was slain by Jhoec'
-[00:51:05] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
-[00:51:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5712ms or 114 ticks behind
-[00:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6556ms or 131 ticks behind
-[00:52:06] [Server thread/INFO]: [SrLipord: Set the weather to clear]
-[00:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5279ms or 105 ticks behind
-[00:52:33] [Server thread/INFO]: SrLipord has made the advancement [Diamonds!]
-[00:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
-[00:52:46] [Server thread/INFO]: Vector tried to swim in lava
-[00:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7980ms or 159 ticks behind
-[00:53:01] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[00:53:08] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
-[00:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
-[00:53:22] [Server thread/INFO]: Jhoec was slain by Spider
-[00:53:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[00:53:30] [Server thread/INFO]: Villager class_1646['Shepherd'/62422, l='ServerLevel[world]', x=-1945.46, y=114.00, z=-489.32] died, message: 'Shepherd was slain by Zombie'
-[00:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4686ms or 93 ticks behind
-[00:53:57] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
-[00:53:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
-[00:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
-[00:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10254ms or 205 ticks behind
-[00:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8818ms or 176 ticks behind
-[00:55:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9187ms or 183 ticks behind
-[00:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7858ms or 157 ticks behind
-[00:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6424ms or 128 ticks behind
-[00:56:33] [Server thread/INFO]: [Not Secure] <Vector> tp vector-1302,69,1294
-[00:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6743ms or 134 ticks behind
-[00:56:48] [Server thread/INFO]: [Not Secure] <Gathooo> kill Vector
-[00:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5984ms or 119 ticks behind
-[00:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7071ms or 141 ticks behind
-[00:57:41] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
-[00:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8429ms or 168 ticks behind
-[00:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4860ms or 97 ticks behind
-[00:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4950ms or 99 ticks behind
-[00:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5427ms or 108 ticks behind
-[00:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5626ms or 112 ticks behind
-[00:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6329ms or 126 ticks behind
-[00:59:43] [Server thread/INFO]: Vector teleported to -1301.5 69.0 1294.5 minecraft:overworld
-[00:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8695ms or 173 ticks behind
-[01:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
-[01:00:12] [Server thread/INFO]: Luna_trix has made the advancement [Acquire Hardware]
-[01:00:20] [Server thread/INFO]: Gathooo burned to death
-[01:00:22] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[01:00:25] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[01:00:27] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[01:00:29] [Server thread/INFO]: Gathooo teleported to -146.5 -12.0 137.5 minecraft:overworld
-[01:00:31] [Server thread/INFO]: Gathooo teleported to -328.5 87.0 13.5 minecraft:overworld
-[01:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6822ms or 136 ticks behind
-[01:00:50] [Server thread/INFO]: Luna_trix has made the advancement [Suit Up]
-[01:00:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.7389732779424776,0.010128091466683031,-10.021950109656245
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.8066948387345292,0.010177091961018903,-10.412239087763737
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.8744827171867655,0.010199645630237342,-10.80291026397208
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9423302815316674,0.010200513623139784,-11.193925418459912
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.010231563178422,0.010185046138872167,-11.585250153391826
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.7711106351484887,-3.799891550926304E-5,-10.20716226595323
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.8401381390331153,-3.795129458694646E-5,-10.600872803674065
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.911086797886128,-3.85037488257467E-5,-10.994226871001956
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9849274042053366,-3.946092986240046E-5,-11.386978754986558
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.062406820423348,-4.064311806217802E-5,-11.77890665832274
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.144086847017661,-4.189706157831097E-5,-12.169815471046604
-[01:01:02] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.2303753164651425,-4.3101933911771084E-5,-12.559538039424297
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.3894410373745814,-6.036345411075672E-6,-10.087376990451958
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.4530114858907837,-6.070978869843202E-6,-10.479941832049008
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.5126279549990613,-6.113955805631122E-6,-10.873177927227516
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.5691297357534495,-6.1596640392735935E-6,-11.266988959238006
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.6232297948822634,-6.203670324111954E-6,-11.66128675289292
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.6755312819905157,-6.242789375221491E-6,-12.055991391733187
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.7265385704149594,-6.275033229030669E-6,-12.451031438957216
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.776671014742078,-6.299475039384106E-6,-12.84634361845201
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.826279136096673,-6.3160598386957645E-6,-13.241871890688344
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.8756515511249745,-6.3253910695948434E-6,-13.637567261777804
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.4111089361513223,-2.555382039304277E-7,-10.274767437409537
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.4703508974953365,-2.5720425611552855E-7,-10.670106595573088
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.5301933084128905,-2.588114540458264E-7,-11.065376104777897
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.5906063909847035,-2.602426434350491E-7,-11.460577911955625
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.6515633408930626,-2.6142439679688323E-7,-11.855713746994297
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.7130324658596692,-2.623221035946699E-7,-12.250786414762842
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.7749890230738856,-2.629331206094321E-7,-12.645797787718038
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.837403177475153,-2.6327898439149067E-7,-13.040750810219834
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9002480765798282,-2.6339760239579846E-7,-13.43564812101613
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9634957701196072,-2.633360551840269E-7,-13.830492732004132
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.0271211019235125,-2.6314443601904713E-7,-14.225287346442201
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.0911014305061144,-2.6287098364718986E-7,-14.620034389809007
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.1554125978277625,-2.6255859353341293E-7,-15.014736685789103
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.220032860255742,-2.622426364951025E-7,-15.409396771969114
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.284942648055676,-2.6194992130967876E-7,-15.804016928455894
-[01:01:03] [Server thread/WARN]: Vector moved too quickly! -9.672090642757667,-0.021224107692489724,-3.0661833611616203
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.350120569160026,-2.6169865918745927E-7,-16.198599851817562
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.415547369311753,-2.6149910326012105E-7,-16.59314796896615
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.481205720145681,-2.613546996599325E-7,-16.987663464122306
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.5470800252019217,-2.6126350860522507E-7,-17.38214829936078
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.613156248132782,-2.612197107509928E-7,-17.776604240547385
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.6794179759876897,-2.6121504959064623E-7,-18.171033525162784
-[01:01:03] [Server thread/WARN]: Gathooo moved too quickly! 10.161807153210674,0.45245147807597164,-0.8662848204735241
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.745850437576337,-2.612401246437912E-7,-18.565438166939202
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.8124403383626486,-2.6128545016490534E-7,-18.95981997823401
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.879175714196208,-2.613422367403473E-7,-19.35418059017138
-[01:01:03] [Server thread/WARN]: Jhoec moved too quickly! 10.039529200994593,0.25086736114158725,2.423503559128676
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -2.946045796409635,-2.6140295972254535E-7,-19.74852147076126
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -3.013040893203197,-2.614616576579465E-7,-20.14284393748676
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -3.0801522824231142,-2.6151401755214465E-7,-20.537149179810513
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.7948762368127973,-7.58137019829519E-9,-11.05208109961859
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.8621902649151707,-7.614339381234458E-9,-11.44635623628892
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9289075141268768,-7.636849375103338E-9,-11.84073062909738
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! -1.9937733324363762,-7.64966756605645E-9,-12.235376068361802
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.3761950433213315,4.5112028338678556E-5,29.388301815502928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.3761950433213315,4.5112028338678556E-5,29.388301815502928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.3761950433213315,4.5112028338678556E-5,29.388301815502928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.3761950433213315,4.5112028338678556E-5,29.388301815502928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.3761950433213315,4.5112028338678556E-5,29.388301815502928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.312151513337994,4.140989641854276E-5,28.993524014329523
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.2499129217171685,3.5234939836925605E-5,28.598489315028928
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 5.190260021247013,2.771202786533422E-5,28.203123893741576
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.6734162462162203,6.270601502933459E-6,19.574945642178136
-[01:01:03] [Server thread/WARN]: Oak Boat (vehicle of xXTHEONEXx) moved too quickly! 3.613745639388071,1.1328408078270513E-7,19.17956675860478
-[01:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11957ms or 239 ticks behind
-[01:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
-[01:01:41] [Server thread/INFO]: Luna_trix has made the advancement [Isn't It Iron Pick]
-[01:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
-[01:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
-[01:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
-[01:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
-[01:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9440ms or 188 ticks behind
-[01:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
-[01:03:46] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[01:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5750ms or 115 ticks behind
-[01:03:57] [Worker-Main-2/WARN]: Couldn't find template pool reference: kaisyn:village/meadow_swiss/villagers
-[01:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7089ms or 141 ticks behind
-[01:04:20] [Server thread/INFO]: KHPL707 has made the advancement [A Seedy Place]
-[01:04:34] [Server thread/INFO]: Gathooo teleported to -146.5 -12.0 137.5 minecraft:overworld
-[01:04:38] [Server thread/INFO]: Gathooo teleported to -328.5 87.0 13.5 minecraft:overworld
-[01:04:40] [Server thread/INFO]: Gathooo teleported to -164.5 -13.0 131.5 minecraft:overworld
-[01:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
-[01:04:57] [Server thread/INFO]: TheDarielito has made the advancement [Isn't It Iron Pick]
-[01:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6186ms or 123 ticks behind
-[01:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4041ms or 80 ticks behind
-[01:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
-[01:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
-[01:05:59] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[01:06:02] [Server thread/INFO]: Vector has made the advancement [Ice Bucket Challenge]
-[01:06:15] [Server thread/INFO]: Luna_trix has made the advancement [Diamonds!]
-[01:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[01:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
-[01:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
-[01:08:13] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
-[01:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:08:52] [Server thread/INFO]: SrLipord teleported to -1945.5 121.0 -423.5 minecraft:overworld
-[01:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
-[01:09:13] [Server thread/INFO]: Luna_trix has made the advancement [The Cutest Predator]
-[01:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3826ms or 76 ticks behind
-[01:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5360ms or 107 ticks behind
-[01:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7105ms or 142 ticks behind
-[01:10:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8884ms or 177 ticks behind
-[01:10:28] [Server thread/INFO]: Luna_trix was blown up by Creeper
-[01:10:31] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[01:10:41] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[01:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6964ms or 139 ticks behind
-[01:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5593ms or 111 ticks behind
-[01:11:14] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[01:11:14] [Server thread/INFO]: Luna_trix left the game
-[01:11:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
-[01:11:40] [Server thread/INFO]: SrLipord has made the advancement [Suit Up]
-[01:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
-[01:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
-[01:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
-[01:12:34] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[01:12:34] [Server thread/INFO]: Gathooo left the game
-[01:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[01:12:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:12:39] [Server thread/INFO]: <--[HERE]
-[01:12:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:12:40] [Server thread/INFO]: <--[HERE]
-[01:12:43] [Server thread/INFO]: [Not Secure] <TheDarielito> Duerman rápido que estoy en cueva
-[01:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:13:13] [Server thread/INFO]: Gathooo[/127.47.238.219:35289] logged in with entity id 99435 at (-317.71955570918965, -38.0, 192.1875413028418)
-[01:13:13] [Server thread/INFO]: Gathooo joined the game
-[01:13:14] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[01:13:24] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[01:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7057ms or 141 ticks behind
-[01:13:44] [Server thread/INFO]: SrLipord has made the advancement [Bigger is better]
-[01:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8322ms or 166 ticks behind
-[01:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5531ms or 110 ticks behind
-[01:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5103ms or 102 ticks behind
-[01:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9760ms or 195 ticks behind
-[01:15:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6867ms or 137 ticks behind
-[01:15:40] [Worker-Main-1/WARN]: Couldn't find template pool reference: kaisyn:village/beach_lighthouse/villager_lighthouse_master
-[01:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9621ms or 192 ticks behind
-[01:16:01] [Server thread/INFO]: Luna_trix[/127.220.222.95:55351] logged in with entity id 103504 at (-350.6166586138708, -2.0, 191.93090027942478)
-[01:16:01] [Server thread/INFO]: Luna_trix joined the game
-[01:16:01] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[01:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7824ms or 156 ticks behind
-[01:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7308ms or 146 ticks behind
-[01:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
-[01:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
-[01:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7681ms or 153 ticks behind
-[01:17:42] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[01:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7716ms or 154 ticks behind
-[01:18:20] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
-[01:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6611ms or 132 ticks behind
-[01:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3816ms or 76 ticks behind
-[01:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
-[01:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
-[01:19:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
-[01:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
-[01:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
-[01:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
-[01:20:42] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[01:20:57] [Server thread/INFO]: Jhoec was slain by Iron Golem
-[01:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3187ms or 63 ticks behind
-[01:21:06] [Server thread/INFO]: KHPL707 has made the advancement [Best Friends Forever]
-[01:21:06] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[01:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5863ms or 117 ticks behind
-[01:21:29] [Server thread/INFO]: [Jhoec: Teleported Jhoec to KHPL707]
-[01:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
-[01:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[01:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
-[01:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
-[01:23:25] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[01:23:25] [Server thread/INFO]: Luna_trix left the game
-[01:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
-[01:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
-[01:23:50] [Server thread/INFO]: [Not Secure] <TheDarielito> Ya comenzaron con los exploits, diamantes en la superficie
-[01:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7931ms or 158 ticks behind
-[01:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[01:24:27] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[01:24:27] [Server thread/INFO]: Jhoec left the game
-[01:25:33] [Server thread/INFO]: Gathooo has made the advancement [Ice Bucket Challenge]
-[01:25:36] [Server thread/INFO]: Jhoec[/127.182.93.252:33367] logged in with entity id 118434 at (469.2597924831306, 72.0, -929.3000000119209)
-[01:25:36] [Server thread/INFO]: Jhoec joined the game
-[01:25:37] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[01:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[01:26:59] [Server thread/INFO]: Gathooo teleported to -305.5 -41.0 200.5 minecraft:overworld
-[01:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01:28:05] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[01:28:31] [Server thread/INFO]: [Not Secure] <TheDarielito> ¿Cómo desactivo los spawns?
-[01:28:36] [Server thread/INFO]: [Not Secure] <TheDarielito> Estoy en problemas
-[01:28:55] [Server thread/INFO]: [Not Secure] <TheDarielito> Spawners
-[01:29:11] [Server thread/INFO]: Luna_trix[/127.220.222.95:54463] logged in with entity id 122701 at (-207.78643216806623, -54.0, 289.4694734842588)
-[01:29:11] [Server thread/INFO]: Luna_trix joined the game
-[01:29:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
-[01:30:28] [Server thread/INFO]: Vector has made the advancement [Monster Hunter]
-[01:31:02] [Server thread/INFO]: Vector was shot by Skeleton
-[01:31:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[01:31:08] [Server thread/INFO]: TheDarielito was blown up by Creeper
-[01:31:13] [Server thread/INFO]: Vector teleported to -2636.5 251.0 787.5 minecraft:overworld
-[01:31:13] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[01:31:38] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[01:31:56] [Server thread/INFO]: TheDarielito teleported to -871.5 -33.0 -479.5 minecraft:overworld
-[01:32:03] [Server thread/INFO]: SrLipord has made the advancement [Ice Bucket Challenge]
-[01:32:05] [Server thread/INFO]: xXTHEONEXx has made the advancement [Packing Up!]
-[01:32:10] [Server thread/INFO]: KHPL707 has made the advancement [Isn't It Iron Pick]
-[01:32:24] [Server thread/INFO]: Jhoec has made the advancement [Acquire Hardware]
-[01:33:29] [Server thread/WARN]: TheDarielito moved wrongly!
-[01:33:30] [Server thread/INFO]: TheDarielito was slain by Spider
-[01:33:32] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[01:33:43] [Server thread/INFO]: TheDarielito teleported to -882.5 -31.0 -443.5 minecraft:overworld
-[01:33:49] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[01:33:49] [Server thread/INFO]: Gathooo left the game
-[01:33:50] [Server thread/INFO]: TheDarielito was slain by Spider
-[01:33:52] [Server thread/INFO]: [do_a_barrel_roll] Client of TheDarielito accepted server config.
-[01:33:53] [Server thread/INFO]: SrLipord has made the advancement [Gucci backpack]
-[01:33:59] [Server thread/INFO]: Jhoec was slain by Spider
-[01:34:01] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[01:34:02] [Server thread/INFO]: Vector was slain by Zombie
-[01:34:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[01:34:10] [Server thread/INFO]: Vector teleported to -2799.5 185.0 784.5 minecraft:overworld
-[01:34:21] [Server thread/INFO]: Vector was slain by Zombie
-[01:34:23] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[01:34:33] [Server thread/INFO]: Vector teleported to -2805.5 182.0 789.5 minecraft:overworld
-[01:35:10] [Server thread/INFO]: TheDarielito teleported to -881.5 -32.0 -441.5 minecraft:overworld
-[01:35:37] [Server thread/INFO]: TheDarielito teleported to -397.5 81.0 -384.5 minecraft:overworld
-[01:36:08] [Server thread/INFO]: KHPL707 was slain by Drowned
-[01:36:11] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[01:36:53] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
-[01:37:01] [Server thread/INFO]: [Not Secure] <TheDarielito> Bueno muchachos, hablamos al rato, voy a cenar y a hacer tareas
-[01:38:29] [Server thread/INFO]: xXTHEONEXx has made the advancement [Bigger is better]
-[01:38:40] [Server thread/INFO]: SrLipord has made the advancement [Ol' Betsy]
-[01:39:27] [Server thread/INFO]: SrLipord has made the advancement [Take Aim]
-[01:39:41] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[01:40:48] [Server thread/INFO]: KHPL707 drowned
-[01:40:50] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[01:40:56] [Server thread/INFO]: TheDarielito lost connection: Disconnected
-[01:40:56] [Server thread/INFO]: TheDarielito left the game
-[01:42:18] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[01:42:18] [Server thread/INFO]: SrLipord left the game
-[01:42:20] [Worker-Main-2/WARN]: Couldn't find template pool reference: kaisyn:village/sparse_jungle_polynesian/villager_village_chief
-[01:42:50] [Server thread/INFO]: KHPL707 drowned
-[01:42:51] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[01:43:48] [Worker-Main-3/WARN]: Skipping Entity with id 
-[01:43:49] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:51] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:51] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:51] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:51] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:52] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:55] [Worker-Main-2/WARN]: Skipping Entity with id 
-[01:43:55] [Worker-Main-2/WARN]: Skipping Entity with id 
-[01:43:56] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:56] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:43:57] [Worker-Main-1/WARN]: Skipping Entity with id 
-[01:44:02] [Worker-Main-3/WARN]: Skipping Entity with id 
-[01:44:07] [Server thread/INFO]: Vector was blown up by Creeper
-[01:44:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[01:44:12] [Server thread/INFO]: SrLipord[/127.163.204.157:55189] logged in with entity id 141091 at (-2283.957884909993, 185.0, -11889.740946934277)
-[01:44:12] [Server thread/INFO]: SrLipord joined the game
-[01:44:13] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[01:44:15] [Server thread/INFO]: Vector teleported to -3871.5 67.0 361.5 minecraft:overworld
-[01:44:24] [Worker-Main-2/WARN]: Skipping Entity with id 
-[01:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[01:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6567ms or 131 ticks behind
-[01:45:06] [Server thread/INFO]: SrLipord has made the advancement [Gotta have that bling]
-[01:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[01:47:13] [Server thread/INFO]: [SrLipord: Teleported xXTHEONEXx to SrLipord]
-[01:47:48] [Server thread/INFO]: Luna_trix teleported to -222.5 81.0 38.5 minecraft:overworld
-[01:48:10] [Server thread/INFO]: [Not Secure] <KHPL707> ewds
-[01:48:51] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> ZZZZZZZZZZZZZZZZZZZZZ
-[01:48:52] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> zZzZ
-[01:48:52] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> z
-[01:48:52] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> Z
-[01:48:53] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> z
-[01:48:53] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> Z
-[01:48:53] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> z
-[01:48:53] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> Z
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:54] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> zZz
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:54] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:55] [Server thread/INFO]: [Not Secure] <Luna_trix> zzzzzzzzzzzzzzzzzzzz
-[01:48:55] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <Luna_trix> zzzzzz
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:56] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:57] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:57] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:57] [Server thread/INFO]: [Not Secure] <SrLipord> z
-[01:48:59] [Server thread/INFO]: [Not Secure] <Luna_trix> zz
-[01:49:00] [Server thread/INFO]: [Not Secure] <Luna_trix> z
-[01:49:04] [Server thread/INFO]: [Not Secure] <Luna_trix> z
-[01:49:07] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:07] [Server thread/INFO]: [Not Secure] <Jhoec> xXTHEONEXx
-[01:49:07] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:07] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:08] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:08] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:08] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:08] [Server thread/INFO]: [Not Secure] <Luna_trix> zzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:49:08] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:08] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:09] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:09] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:09] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:09] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:10] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:10] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:10] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:10] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:11] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:11] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:11] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:11] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:12] [Server thread/INFO]: [Not Secure] <Luna_trix> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:49:15] [Server thread/INFO]: [Not Secure] <Luna_trix> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01:49:16] [Server thread/INFO]: [Not Secure] <Luna_trix> zzz
-[01:49:16] [Server thread/INFO]: [Not Secure] <KHPL707> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:17] [Server thread/INFO]: [Not Secure] <Luna_trix> z
-[01:49:19] [Server thread/INFO]: [Not Secure] <Luna_trix> z
-[01:49:25] [Server thread/INFO]: [Not Secure] <KHPL707> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:34] [Server thread/INFO]: [Not Secure] <KHPL707> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[01:49:44] [Server thread/INFO]: Luna_trix teleported to -303.5 -43.0 203.5 minecraft:overworld
-[01:50:26] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[01:50:26] [Server thread/INFO]: Jhoec left the game
-[01:51:04] [Server thread/WARN]: Vector moved too quickly! -9.998372184960317,-0.623264386218267,-0.6842424887553875
-[01:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:51:30] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to SrLipord]
-[01:52:12] [Server thread/INFO]: Jhoec[/127.182.93.252:53445] logged in with entity id 151148 at (470.75964696696815, 72.0, -926.2970180773357)
-[01:52:12] [Server thread/INFO]: Jhoec joined the game
-[01:52:14] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[01:52:19] [Server thread/INFO]: [SrLipord: Teleported KHPL707 to Jhoec]
-[01:53:01] [Server thread/INFO]: Gathooo[/127.47.238.219:60021] logged in with entity id 152020 at (-311.69999998807907, -41.0, 199.80159877890458)
-[01:53:01] [Server thread/INFO]: Gathooo joined the game
-[01:53:01] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[01:53:51] [Server thread/INFO]: xXTHEONEXx has made the advancement [Local Brewery]
-[01:54:44] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of KHPL707) moved wrongly! 0.3719191875678689
-[01:54:44] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of KHPL707) moved wrongly! 0.5433325528589421
-[01:54:44] [Server thread/WARN]: entity.terrestria.cypress_boat (vehicle of KHPL707) moved wrongly! 0.6927349390575728
-[01:56:46] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
-[01:57:33] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[01:57:53] [Server thread/INFO]: Villager class_1646['Unemployed'/156438, l='ServerLevel[world]', x=-2035.72, y=111.00, z=-11944.63] died, message: 'Unemployed suffocated in a wall'
-[01:59:01] [Server thread/INFO]: xXTHEONEXx has reached the goal [Zombie Doctor]
-[01:59:22] [Server thread/INFO]: KHPL707 burned to death
-[01:59:24] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:00:17] [Server thread/INFO]: Vector was slain by Zombie
-[02:00:19] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[02:00:26] [Server thread/INFO]: Vector teleported to -5789.5 169.0 -692.5 minecraft:overworld
-[02:00:30] [Server thread/INFO]: Vector was slain by Zombie
-[02:00:35] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[02:00:55] [Server thread/INFO]: Vector teleported to -5790.5 169.0 -691.5 minecraft:overworld
-[02:01:07] [Server thread/INFO]: Vector was slain by Zombie
-[02:01:09] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[02:01:18] [Server thread/INFO]: Vector teleported to -5790.5 169.0 -691.5 minecraft:overworld
-[02:01:25] [Server thread/INFO]: KHPL707 was blown up by Creeper
-[02:01:27] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:03:45] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:03:51] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to Jhoec]
-[02:03:52] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[02:03:53] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[02:03:53] [Server thread/INFO]: [Not Secure] <SrLipord> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[02:04:35] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
-[02:04:48] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:05:19] [Server thread/INFO]: [Not Secure] <xXTHEONEXx> ZzZZZzzZZZzzZzz
-[02:08:33] [Server thread/INFO]: Jhoec has made the advancement [Isn't It Iron Pick]
-[02:08:54] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[02:08:54] [Server thread/INFO]: Jhoec left the game
-[02:10:07] [Server thread/INFO]: Jhoec[/127.182.93.252:55937] logged in with entity id 169167 at (470.32726289789184, 72.0, -930.7602078518963)
-[02:10:07] [Server thread/INFO]: Jhoec joined the game
-[02:10:08] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:11:59] [Server thread/INFO]: KHPL707 was shot by Skeleton
-[02:12:02] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:12:58] [Server thread/INFO]: KHPL707 was shot by Skeleton
-[02:12:59] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:14:08] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[02:14:08] [Server thread/INFO]: Jhoec left the game
-[02:14:09] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
-[02:14:15] [Worker-Main-1/WARN]: Couldn't find template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
-[02:14:53] [Server thread/INFO]: KHPL707 was shot by Skeleton
-[02:14:54] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:15:02] [Server thread/INFO]: Gathooo teleported to -303.5 -52.0 200.5 minecraft:overworld
-[02:15:08] [Server thread/INFO]: [Gathooo: Teleported Luna_trix to Gathooo]
-[02:15:10] [Server thread/INFO]: Jhoec[/127.182.93.252:36041] logged in with entity id 176878 at (403.24361952972555, 77.0, -718.2497453196064)
-[02:15:10] [Server thread/INFO]: Jhoec joined the game
-[02:15:11] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:15:45] [Server thread/INFO]: Jhoec teleported to 480.0 75.0 -933.0 minecraft:overworld
-[02:15:46] [Server thread/INFO]: KHPL707 lost connection: Disconnected
-[02:15:46] [Server thread/INFO]: KHPL707 left the game
-[02:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:15:56] [Server thread/INFO]: KHPL707[/127.73.22.10:56475] logged in with entity id 178047 at (576.6731222212766, 58.0, -888.5693993625571)
-[02:15:56] [Server thread/INFO]: KHPL707 joined the game
-[02:15:57] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
-[02:17:12] [Server thread/WARN]: Jhoec moved too quickly! 0.4502160125947512,1.0435356201475088,-10.014796679682036
-[02:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[02:19:58] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[02:19:58] [Server thread/INFO]: Jhoec left the game
-[02:21:20] [Server thread/WARN]: Vector moved too quickly! -7.529552392997175,-1.4524514780759716,-6.878505675342694
-[02:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
-[02:21:33] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:21:37] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
-[02:21:53] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:22:07] [Server thread/INFO]: Villager class_1646['Unemployed'/174268, l='ServerLevel[world]', x=-2008.87, y=122.00, z=-11857.70] died, message: 'Unemployed suffocated in a wall'
-[02:22:09] [Server thread/INFO]: Luna_trix teleported to -222.5 81.0 38.5 minecraft:overworld
-[02:22:51] [Server thread/INFO]: Villager class_1646['Unemployed'/174067, l='ServerLevel[world]', x=-1981.85, y=86.00, z=-11925.15] died, message: 'Unemployed was slain by Zombie'
-[02:23:22] [Server thread/INFO]: Jhoec[/127.182.93.252:35411] logged in with entity id 186354 at (471.5743432363535, 71.0, -922.9169602732459)
-[02:23:22] [Server thread/INFO]: Jhoec joined the game
-[02:23:23] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:23:35] [Server thread/INFO]: KHPL707 lost connection: Disconnected
-[02:23:35] [Server thread/INFO]: KHPL707 left the game
-[02:24:37] [Server thread/INFO]: SrLipord was blown up by Creeper
-[02:24:39] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[02:24:43] [Server thread/INFO]: SrLipord teleported to -1969.5 70.0 -11960.5 minecraft:overworld
-[02:24:52] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
-[02:25:31] [Server thread/INFO]: Gathooo has made the advancement [Sweet Dreams]
-[02:25:42] [Server thread/INFO]: SrLipord has made the advancement [Not Today, Thank You]
-[02:26:16] [Server thread/INFO]: [Not Secure] <Gathooo> zzz?
-[02:27:48] [Server thread/INFO]: SrLipord teleported to -1913.5 76.0 -12020.5 minecraft:overworld
-[02:27:53] [Server thread/INFO]: [SrLipord: Teleported xXTHEONEXx to SrLipord]
-[02:27:55] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
-[02:30:53] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
-[02:32:03] [Server thread/INFO]: Jhoec teleported to 469.5 72.0 -927.5 minecraft:overworld
-[02:32:43] [Server thread/INFO]: Gathooo teleported to -303.5 -52.0 200.5 minecraft:overworld
-[02:35:31] [Server thread/INFO]: Luna_trix has made the advancement [A Seedy Place]
-[02:35:34] [Server thread/INFO]: Vector hit the ground too hard while trying to escape Zombie
-[02:35:37] [Server thread/INFO]: Gathooo has made the advancement [Enchanter]
-[02:35:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[02:35:47] [Server thread/INFO]: Vector teleported to -8588.5 107.0 -1766.5 minecraft:overworld
-[02:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[02:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
-[02:36:45] [Server thread/INFO]: Vector lost connection: Timed out
-[02:36:45] [Server thread/INFO]: Vector left the game
-[02:36:57] [Server thread/INFO]: Vector[/127.193.171.90:39449] logged in with entity id 203536 at (-8547.530601828805, 62.110764312744145, -1866.9821507930824)
-[02:36:57] [Server thread/INFO]: Vector joined the game
-[02:36:57] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1690['Birch Boat'/203537, l='ServerLevel[world]', x=-8547.53, y=62.52, z=-1866.98] as it would cause deadlock
-[02:36:58] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
-[02:37:14] [Server thread/INFO]: Vector has made the advancement [Diamonds!]
-[02:37:55] [Server thread/INFO]: Jhoec was killed by Witch using magic
-[02:38:00] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:38:12] [Server thread/INFO]: Jhoec teleported to 1061.5 73.0 -828.5 minecraft:overworld
-[02:40:42] [Server thread/INFO]: Luna_trix teleported to -222.5 81.0 38.5 minecraft:overworld
-[02:41:11] [Server thread/INFO]: Luna_trix lost connection: Disconnected
-[02:41:11] [Server thread/INFO]: Luna_trix left the game
-[02:41:52] [Server thread/INFO]: xXTHEONEXx was slain by Cave Spider
-[02:41:54] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[02:42:06] [Server thread/INFO]: [xXTHEONEXx: Teleported xXTHEONEXx to SrLipord]
-[02:42:11] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1428['Chicken'/210771, l='ServerLevel[world]', x=-9492.50, y=5.00, z=-2140.50] as it would cause deadlock
-[02:42:14] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1428['Chicken'/210841, l='ServerLevel[world]', x=-9492.50, y=5.00, z=-2140.50] as it would cause deadlock
-[02:43:18] [Server thread/INFO]: Jhoec was shot by Skeleton
-[02:43:20] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:43:33] [Server thread/INFO]: Jhoec teleported to 1037.5 62.0 -855.5 minecraft:overworld
-[02:43:34] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! -8.206596614778391,0.0,6.3051281368680065
-[02:43:34] [Server thread/WARN]: Birch Boat (vehicle of Vector) moved too quickly! -8.514634261997344,0.0,6.559598484371236
-[02:43:38] [Server thread/INFO]: Jhoec was shot by Skeleton
-[02:43:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
-[02:43:46] [Server thread/INFO]: Jhoec teleported to 1043.0 86.0 -844.0 minecraft:overworld
-[02:46:16] [Server thread/INFO]: Villager class_1646['Unemployed'/215454, l='ServerLevel[world]', x=-10043.15, y=62.02, z=-2169.85] died, message: 'Unemployed drowned'
-[02:47:56] [Server thread/INFO]: Jhoec lost connection: Disconnected
-[02:47:56] [Server thread/INFO]: Jhoec left the game
-[02:50:35] [Server thread/INFO]: Villager class_1646['Unemployed'/218951, l='ServerLevel[world]', x=-10875.85, y=207.44, z=-2450.60] died, message: 'Unemployed went up in flames'
-[02:53:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
-[02:53:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
-[02:53:36] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
-[02:53:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
-[02:55:28] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:56:55] [Server thread/INFO]: SrLipord tried to swim in lava
-[02:56:56] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[02:57:03] [Server thread/INFO]: SrLipord teleported to -1969.5 70.0 -11960.5 minecraft:overworld
-[02:57:08] [Server thread/INFO]: SrLipord teleported to -1864.5 -55.0 -11674.5 minecraft:overworld
-[02:57:10] [Server thread/INFO]: SrLipord tried to swim in lava
-[02:57:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[02:57:17] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[02:58:35] [Server thread/INFO]: Gathooo has made the advancement [Cover Me with Diamonds]
-[02:59:26] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[03:02:38] [Server thread/INFO]: Vector has made the advancement [Not Today, Thank You]
-[03:04:08] [Server thread/INFO]: xXTHEONEXx was slain by Spider
-[03:04:09] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[03:04:26] [Server thread/INFO]: xXTHEONEXx teleported to -1729.5 -10.0 -11726.5 minecraft:overworld
-[03:04:40] [Server thread/INFO]: [Not Secure] <Vector> zzzzzzzzzzz
-[03:04:49] [Server thread/INFO]: Vector lost connection: Disconnected
-[03:04:49] [Server thread/INFO]: Vector left the game
-[03:05:10] [Server thread/INFO]: Gathooo was slain by Spider
-[03:05:11] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[03:05:18] [Server thread/INFO]: Gathooo teleported to -263.5 24.0 27.5 minecraft:overworld
-[03:05:24] [Server thread/INFO]: Gathooo teleported to -56.5 -38.0 174.5 minecraft:overworld
-[03:05:29] [Server thread/INFO]: xXTHEONEXx was blown up by Creeper
-[03:05:30] [Server thread/INFO]: [do_a_barrel_roll] Client of xXTHEONEXx accepted server config.
-[03:05:34] [Server thread/INFO]: xXTHEONEXx teleported to -1746.5 -20.0 -11725.5 minecraft:overworld
-[03:05:56] [Server thread/INFO]: xXTHEONEXx teleported to -2288.5 183.0 -11889.5 minecraft:overworld
-[03:10:17] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[03:10:56] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
-[03:12:01] [Server thread/INFO]: SrLipord has reached the goal [The largest of them all]
-[03:12:04] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:13:33] [Server thread/INFO]: xXTHEONEXx has made the advancement [Gucci backpack]
-[03:19:25] [Server thread/INFO]: xXTHEONEXx teleported to -2257.5 287.0 -11811.5 minecraft:overworld
-[03:19:28] [Server thread/INFO]: [SrLipord: Teleported SrLipord to xXTHEONEXx]
-[03:22:00] [Server thread/INFO]: [SrLipord: Set the time to 1]
-[03:23:44] [Server thread/INFO]: xXTHEONEXx lost connection: Disconnected
-[03:23:44] [Server thread/INFO]: xXTHEONEXx left the game
-[03:23:47] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[03:23:47] [Server thread/INFO]: SrLipord left the game
-[03:31:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:31:42] [Server thread/INFO]: <--[HERE]
-[03:31:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:31:42] [Server thread/INFO]: <--[HERE]
-[04:41:07] [Server thread/INFO]: Stopping the server
-[04:41:07] [Server thread/INFO]: Stopping server
-[04:41:07] [Server thread/INFO]: Saving players
-[04:41:07] [Server thread/INFO]: Saving worlds
-[04:41:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:41:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:41:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:41:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:41:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:41:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:41:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:41:08] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
-[04:41:08] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[22:14:53] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[22:14:53] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[22:14:53] [Server thread/INFO]: [REI] Plugins (3):
+[22:14:53] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:14:53] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:14:53] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:14:53] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[22:14:53] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.863 ms, totaling 91.11 ms.
+[22:14:53] [Server thread/INFO]: [REI] ----------------------------------------
+[22:14:53] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[22:14:53] [Server thread/INFO]: [REI] Plugins (3):
+[22:14:53] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[22:14:53] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[22:14:53] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:14:53] [Server thread/INFO]: [REI] ----------------------------------------
+[22:14:53] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.318 ms, totaling 91.36 ms.
+[22:14:53] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[22:14:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[22:14:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[22:14:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[22:14:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[22:14:53] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[22:14:53] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[22:14:53] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[22:14:53] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[22:14:53] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@b976432 for service interface journeymap.api.services.ClientPlatformService
+[22:14:53] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1100bed0 for service interface journeymap.api.services.CommonPlatformService
+[22:15:26] [Server thread/INFO]: Vector[/127.193.171.90:46775] logged in with entity id 46 at (-10730.753169340314, 129.0, -2519.8694019033956)
+[22:15:26] [Server thread/INFO]: Vector joined the game
+[22:15:28] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[22:20:22] [Server thread/INFO]: KHPL707[/127.73.22.10:36401] logged in with entity id 872 at (545.3000000119209, 56.0, -882.2080401931306)
+[22:20:22] [Server thread/INFO]: KHPL707 joined the game
+[22:20:25] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[22:22:07] [Server thread/INFO]: Gathooo[/127.47.238.219:57927] logged in with entity id 1533 at (-307.13499681735607, -52.0, 202.81742434324968)
+[22:22:07] [Server thread/INFO]: Gathooo joined the game
+[22:22:08] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[22:22:16] [Server thread/INFO]: [Not Secure] <Gathooo> hola putas
+[22:23:52] [Server thread/INFO]: [Not Secure] [Server] mamaguebo
