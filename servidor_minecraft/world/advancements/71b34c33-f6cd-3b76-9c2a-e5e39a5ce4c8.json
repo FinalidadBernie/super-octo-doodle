@@ -65,9 +65,12 @@
       "minecraft:river": "2025-04-14 00:23:10 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:31:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:05:32 +0000",
+      "minecraft:frozen_ocean": "2025-04-14 00:48:15 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-14 00:48:26 +0000",
       "minecraft:ocean": "2025-04-14 00:32:19 +0000",
       "minecraft:birch_forest": "2025-04-14 00:11:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-14 00:24:58 +0000",
+      "minecraft:snowy_beach": "2025-04-14 00:53:06 +0000",
       "minecraft:plains": "2025-04-14 00:11:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-14 00:39:50 +0000",
       "minecraft:pale_garden": "2025-04-14 00:28:06 +0000"
@@ -245,6 +248,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-14 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -584,6 +593,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:29:57 +0000"
@@ -614,6 +629,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -623,6 +644,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-14 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -773,6 +800,24 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -938,6 +983,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:10:25 +0000"
@@ -953,6 +1004,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -986,6 +1043,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
@@ -1007,6 +1070,12 @@
   "mcwpaths:recipes/soil": {
     "criteria": {
       "has_wood": "2025-04-14 00:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1043,6 +1112,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-14 00:59:48 +0000"
     },
     "done": true
   },
@@ -1166,6 +1241,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-14 00:14:22 +0000"
@@ -1223,6 +1304,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1442,6 +1529,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-14 00:19:25 +0000"
@@ -1451,6 +1544,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-14 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1511,6 +1610,12 @@
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-04-14 00:22:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1576,6 +1681,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-14 00:48:24 +0000",
       "bread": "2025-04-14 00:22:36 +0000"
     },
     "done": false
@@ -1601,6 +1707,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-14 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1706,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-14 00:59:48 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-14 00:30:21 +0000"
@@ -1715,6 +1833,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 00:17:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-14 00:59:24 +0000"
     },
     "done": true
   },
@@ -1739,6 +1863,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 00:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-14 00:59:48 +0000"
     },
     "done": true
   },
