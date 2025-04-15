@@ -743,3 +743,5 @@ java.lang.Throwable
 [21:43:26] [Server thread/DEBUG] [REI] Player Vector has outdated displays version 0 [latest version: 2100FA6400000001], sending reset packet request.
 [21:44:44] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: 2100FA6400000001]
 [21:44:44] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: 2100FA6400000001], sending reset packet request.
+[21:58:06] [Server thread/DEBUG] [REI] Player Vector has outdated displays version 0 [latest version: 2100FA6400000001]
+[21:58:06] [Server thread/DEBUG] [REI] Player Vector has outdated displays version 0 [latest version: 2100FA6400000001], sending reset packet request.

@@ -1131,3 +1131,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [21:48:28] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
 [21:49:37] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
 [21:49:38] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Vector]
+[21:52:45] [Server thread/INFO]: Gathooo teleported to -10967.0 156.0 -2468.0 minecraft:overworld
+[21:52:51] [Server thread/INFO]: Gathooo teleported to -10684.0 135.0 -2472.0 minecraft:overworld
+[21:53:01] [Server thread/INFO]: Gathooo teleported to -10767.0 122.0 -2600.0 minecraft:overworld
+[21:53:57] [Server thread/INFO]: Gathooo teleported to -10925.0 155.0 -2388.0 minecraft:overworld
+[21:55:05] [Server thread/INFO]: Gathooo teleported to -10881.0 200.0 -2431.0 minecraft:overworld
+[21:57:57] [Server thread/INFO]: Vector lost connection: Timed out
+[21:57:57] [Server thread/INFO]: Vector left the game
+[21:58:06] [Server thread/INFO]: Vector[/127.193.171.90:42431] logged in with entity id 199885 at (-10766.061359071447, 138.41999998688698, -2539.9128411236134)
+[21:58:06] [Server thread/INFO]: Vector joined the game
+[21:58:06] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[22:01:46] [Server thread/INFO]: Villager class_1646['Fletcher'/196170, l='ServerLevel[world]', x=-10872.54, y=206.00, z=-2450.12] died, message: 'Fletcher was slain by Gathooo using [EL CUÑO dE la fad65u7655!e1k9PEPAGPWM;ytr223r23r23]'
+[22:09:49] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:10:45] [Server thread/INFO]: SrLipord teleported to -11473.5 104.0 -2106.5 minecraft:overworld
+[22:10:59] [Server thread/INFO]: Gathooo teleported to -10854.0 188.0 -2257.0 minecraft:overworld
+[22:11:15] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:11:28] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[22:11:31] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:11:40] [Server thread/INFO]: [SrLipord: Kicked Vector: Kicked by an operator]
+[22:11:40] [Server thread/INFO]: Vector lost connection: Kicked by an operator
+[22:11:40] [Server thread/INFO]: Vector left the game
+[22:12:04] [Server thread/INFO]: SrLipord teleported to -11473.5 104.0 -2106.5 minecraft:overworld
+[22:12:06] [Server thread/INFO]: Gathooo teleported to -11429.0 96.0 -2034.0 minecraft:overworld
+[22:12:14] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:16:09] [Server thread/INFO]: Gathooo teleported to -11452.0 135.0 -1638.0 minecraft:overworld
+[22:16:52] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[22:18:33] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:18:48] [Server thread/INFO]: Gathooo teleported to -11572.0 134.0 -1665.0 minecraft:overworld
+[22:18:49] [Server thread/INFO]: SrLipord teleported to -1284.5 160.0 -13450.5 minecraft:overworld
+[22:18:59] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[22:19:40] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
