@@ -58,6 +58,7 @@
       "minecraft:badlands": "2025-04-14 23:24:54 +0000",
       "minecraft:snowy_slopes": "2025-04-14 23:23:33 +0000",
       "minecraft:beach": "2025-04-13 22:12:34 +0000",
+      "minecraft:deep_ocean": "2025-04-15 01:13:36 +0000",
       "minecraft:river": "2025-04-13 22:12:08 +0000",
       "minecraft:snowy_plains": "2025-04-14 02:07:22 +0000",
       "minecraft:lush_caves": "2025-04-14 03:01:18 +0000",
@@ -2597,9 +2598,21 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-04-15 00:43:19 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
@@ -2615,15 +2628,81 @@
     },
     "done": true
   },
+  "terrestria:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-04-15 00:05:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-15 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/japanese_maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/yucca_palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
@@ -2645,9 +2724,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-04-15 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
@@ -2660,6 +2751,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2025-04-15 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
@@ -2678,6 +2775,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-04-15 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rubber_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
@@ -2708,6 +2811,18 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab": {
     "criteria": {
       "has_tuff_bricks": "2025-04-15 00:05:16 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/hemlock_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-15 01:11:58 +0000"
     },
     "done": true
   },
