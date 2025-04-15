@@ -3041,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-15 17:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/resin_brick": {
     "criteria": {
       "has_resin_clump": "2025-04-15 16:18:57 +0000"
@@ -3110,6 +3116,12 @@
   "minecraft:recipes/redstone/pale_oak_door": {
     "criteria": {
       "has_planks": "2025-04-15 16:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-15 17:15:12 +0000"
     },
     "done": true
   },

@@ -2450,6 +2450,18 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/blackstone": {
+    "criteria": {
+      "has_wood": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-15 16:43:47 +0000"
@@ -2528,6 +2540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-15 16:34:39 +0000"
@@ -2594,9 +2612,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-15 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
@@ -2621,6 +2651,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-15 16:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
@@ -2660,6 +2696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 16:58:38 +0000"
@@ -2690,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-04-15 16:43:47 +0000"
@@ -2717,6 +2765,24 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-15 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
@@ -2792,6 +2858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/pale_oak": {
     "criteria": {
       "has_the_recipe": "2025-04-15 15:54:14 +0000"
@@ -2822,6 +2894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 16:58:38 +0000",
@@ -2841,9 +2919,21 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_badlands": "2025-04-15 17:20:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-15 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
@@ -2853,9 +2943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
       "has_log": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
@@ -2910,6 +3012,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-15 16:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-15 17:23:40 +0000"
     },
     "done": true
   },
