@@ -1536,6 +1536,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-15 16:28:15 +0000",
       "minecraft:skeleton": "2025-04-14 03:02:52 +0000",
+      "minecraft:phantom": "2025-04-15 21:25:27 +0000",
       "minecraft:enderman": "2025-04-14 02:00:11 +0000",
       "minecraft:witch": "2025-04-14 22:27:32 +0000",
       "minecraft:spider": "2025-04-14 02:26:39 +0000",
@@ -3352,6 +3353,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-15 20:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-15 20:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-15 21:04:02 +0000"
@@ -3364,9 +3377,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_cocoa_beans": "2025-04-15 20:58:56 +0000"
+      "enchanted_item": "2025-04-15 21:05:05 +0000"
     },
     "done": true
   },
@@ -3376,17 +3389,77 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "enchanted_item": "2025-04-15 21:05:05 +0000"
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/food/cookie": {
+  "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "has_cocoa": "2025-04-15 20:58:56 +0000"
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-15 21:49:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }
