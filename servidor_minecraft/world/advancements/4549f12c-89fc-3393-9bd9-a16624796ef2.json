@@ -1529,6 +1529,7 @@
       "minecraft:cave_spider": "2025-04-14 02:30:58 +0000",
       "minecraft:skeleton": "2025-04-14 00:58:01 +0000",
       "minecraft:phantom": "2025-04-14 23:08:28 +0000",
+      "minecraft:creaking": "2025-04-15 16:19:35 +0000",
       "minecraft:stray": "2025-04-15 00:06:28 +0000",
       "minecraft:spider": "2025-04-14 02:24:28 +0000",
       "minecraft:zombie": "2025-04-14 00:45:57 +0000",
@@ -2990,6 +2991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-15 16:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-15 16:06:55 +0000"
@@ -3026,6 +3033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-04-15 16:18:57 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 16:03:40 +0000"
@@ -3056,9 +3069,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-15 16:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_planks": "2025-04-15 16:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-04-15 16:18:57 +0000"
     },
     "done": true
   },
@@ -3139,6 +3164,12 @@
   "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
       "has_log": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-15 16:26:05 +0000"
     },
     "done": true
   },

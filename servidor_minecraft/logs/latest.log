@@ -455,3 +455,120 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [16:14:28] [Server thread/INFO]: [Not Secure] <KHPL707> ASQ LLUEVA+
 [16:14:57] [Server thread/INFO]: [Not Secure] <KHPL707> Q LLUEVAA
 [16:15:11] [Server thread/INFO]: [SrLipord: Set the weather to rain]
+[16:15:58] [Server thread/INFO]: [Not Secure] <KHPL707> TIENES BLOQUES¿
+[16:16:02] [Server thread/INFO]: [SrLipord: Set the weather to clear]
+[16:16:08] [Server thread/INFO]: [Not Secure] <KHPL707> SISISI
+[16:16:29] [Server thread/INFO]: [Not Secure] <KHPL707> QKJWJAJKDAKJ
+[16:16:53] [Server thread/INFO]: [Not Secure] <KHPL707> Q PRO SOMOS
+[16:17:07] [Server thread/INFO]: [Not Secure] <KHPL707> ESXPLOREMOS AVER SI AI CASTILLOS
+[16:17:39] [Server thread/INFO]: [Not Secure] <KHPL707> SLADDADMALKSDKA
+[16:18:33] [Server thread/INFO]: [Not Secure] <KHPL707> AI MAS BICHOS ASI MAGICOS¿
+[16:18:47] [Server thread/INFO]: KHPL707 was slain by Creaking
+[16:18:48] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[16:18:56] [Server thread/INFO]: KHPL707 teleported to 3190.5 114.0 -87.5 minecraft:overworld
+[16:19:07] [Server thread/INFO]: KHPL707 teleported to 3190.5 114.0 -87.5 minecraft:overworld
+[16:19:18] [Server thread/INFO]: KHPL707 teleported to 3427.5 118.0 -29.5 minecraft:overworld
+[16:19:50] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:19:59] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:20:06] [Server thread/INFO]: KHPL707 was blown up by Creeper
+[16:20:08] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[16:20:20] [Server thread/INFO]: [Not Secure] <KHPL707> SIENTO Q A YIOEK NO LE VA A GUSTAR POR ESO
+[16:20:21] [Server thread/INFO]: [Not Secure] <KHPL707> KASKJDAMKDMAKJDAS
+[16:20:26] [Server thread/INFO]: KHPL707 teleported to 3190.5 114.0 -87.5 minecraft:overworld
+[16:20:28] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[16:20:38] [Server thread/INFO]: KHPL707 teleported to 3438.5 125.0 -20.5 minecraft:overworld
+[16:21:24] [Server thread/INFO]: [Not Secure] <KHPL707> VEO NEGRISIMO
+[16:21:35] [Server thread/INFO]: [Not Secure] <KHPL707> DEJA CONECTO LA PC
+[16:21:55] [Server thread/INFO]: Vector was slain by Husk
+[16:21:58] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[16:22:28] [Server thread/INFO]: [Not Secure] <KHPL707> YA
+[16:22:43] [Server thread/INFO]: [Not Secure] <KHPL707> COMO GRABO PANTALLA
+[16:23:01] [Server thread/INFO]: [Not Secure] <KHPL707> LIPORT
+[16:23:08] [Server thread/INFO]: [Not Secure] <KHPL707> PODRIAS GRABAR ESTE LUGAR¿
+[16:23:30] [Server thread/INFO]: [Not Secure] <KHPL707> ANDO
+[16:24:37] [Server thread/INFO]: [Not Secure] <KHPL707> LIPORT
+[16:24:50] [Server thread/INFO]: [Not Secure] <KHPL707> CREES QUE SERIA BUENA IDEA HACER TIPO COMO UNA CASA ARRIBA DE LOS ARBOLES¿
+[16:25:56] [Server thread/INFO]: [Not Secure] <KHPL707> YA
+[16:26:03] [Server thread/INFO]: [Not Secure] <KHPL707> EL PROBLEMA SON LOS BICHOS
+[16:26:09] [Server thread/INFO]: [Not Secure] <KHPL707> COSTARA HACER UNA CASA
+[16:28:43] [Server thread/INFO]: [Not Secure] <KHPL707> LIPORT
+[16:28:55] [Server thread/INFO]: [Not Secure] <KHPL707> ME AYUDAS A DEJAR UN LADO PLANO¿ PARA ASER LA CASA
+[16:29:16] [Server thread/INFO]: [Not Secure] <KHPL707> ESO DIGO YO
+[16:29:26] [Server thread/INFO]: [Not Secure] <KHPL707> PERO YIOEK LE GUSTA MAS PLANA ASJKDKJADKJAKJDAS
+[16:29:39] [Server thread/INFO]: SrLipord teleported to 56511.5 101.0 1055553.5 minecraft:overworld
+[16:30:00] [Server thread/INFO]: [SrLipord: Teleported KHPL707 to SrLipord]
+[16:30:00] [Server thread/INFO]: KHPL707 has made the advancement [Skyward Cities]
+[16:30:12] [Server thread/INFO]: [Not Secure] <KHPL707> AI Q BONTI
+[16:30:17] [Server thread/INFO]: [Not Secure] <KHPL707> AKI ESTARA LUNA¿
+[16:30:30] [Server thread/INFO]: [Not Secure] <KHPL707> ELLA LO ISO TODOOO¿
+[16:34:11] [Server thread/INFO]: [Not Secure] <SrLipord> dame ch ance
+[16:34:15] [Server thread/INFO]: [Not Secure] <SrLipord> que sigo en llamad
+[16:34:29] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to SrLipord]
+[16:34:34] [Server thread/INFO]: Villager class_1646['Unemployed'/40775, l='ServerLevel[world]', x=-10030.34, y=62.53, z=-2120.58] died, message: 'Unemployed was slain by Drowned'
+[16:35:57] [Server thread/INFO]: Villager class_1646['Fisherman'/40740, l='ServerLevel[world]', x=-10062.02, y=62.51, z=-2162.31] died, message: 'Fisherman was slain by Drowned'
+[16:36:10] [Server thread/INFO]: Villager class_1646['Cartographer'/40727, l='ServerLevel[world]', x=-10014.32, y=62.53, z=-2160.45] died, message: 'Cartographer was slain by Drowned'
+[16:36:12] [Server thread/INFO]: Villager class_1646['Fisherman'/40741, l='ServerLevel[world]', x=-10059.14, y=62.48, z=-2154.22] died, message: 'Fisherman was slain by Drowned'
+[16:37:03] [Server thread/INFO]: Villager class_1646['Fisherman'/40742, l='ServerLevel[world]', x=-10047.16, y=62.61, z=-2164.92] died, message: 'Fisherman was slain by Drowned'
+[16:37:06] [Server thread/INFO]: Villager class_1646['Unemployed'/38490, l='ServerLevel[world]', x=56500.70, y=68.00, z=1055525.57] died, message: 'Unemployed hit the ground too hard while trying to escape Zombie'
+[16:39:52] [Server thread/INFO]: Villager class_1646['Cartographer'/40696, l='ServerLevel[world]', x=-10095.72, y=62.48, z=-2185.18] died, message: 'Cartographer was slain by Drowned'
+[16:40:59] [Server thread/INFO]: [Not Secure] <KHPL707> dak
+[16:41:08] [Server thread/INFO]: Villager class_1646['Unemployed'/40550, l='ServerLevel[world]', x=-10061.20, y=62.02, z=-2135.57] died, message: 'Unemployed was slain by Drowned'
+[16:44:16] [Server thread/INFO]: [Not Secure] <KHPL707> nono
+[16:44:19] [Server thread/INFO]: [Not Secure] <KHPL707> VICTOR+
+[16:44:21] [Server thread/INFO]: [Not Secure] <SrLipord> si quieren
+[16:44:23] [Server thread/INFO]: [Not Secure] <SrLipord> me salgo
+[16:44:25] [Server thread/INFO]: [Not Secure] <SrLipord> pa que duerman
+[16:44:30] [Server thread/INFO]: [Not Secure] <KHPL707> EL ESTE LIRPOT ANDAN EN AFK
+[16:44:31] [Server thread/INFO]: [Not Secure] <SrLipord> sigo en llamada
