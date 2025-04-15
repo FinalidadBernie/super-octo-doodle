@@ -2408,9 +2408,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-15 16:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-15 16:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
     },
     "done": true
   },
@@ -2450,9 +2468,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/iron_from_basic": {
     "criteria": {
       "recipe_condition": "2025-04-15 16:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
     },
     "done": true
   },
@@ -2465,6 +2513,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-15 16:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:12 +0000"
     },
     "done": true
   },
@@ -2501,6 +2555,12 @@
   "packedup:recipes/misc/copper_from_basic": {
     "criteria": {
       "recipe_condition": "2025-04-15 16:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-15 17:04:12 +0000"
     },
     "done": true
   },
@@ -2546,6 +2606,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-15 16:35:38 +0000"
@@ -2576,9 +2642,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
     },
     "done": true
   },
@@ -2648,6 +2732,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
   "packedup:iron_or_copper_backpack": {
     "criteria": {
       "has_copper_backpack": "2025-04-15 16:53:41 +0000"
@@ -2660,6 +2750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-04-15 16:32:24 +0000"
@@ -2669,6 +2765,18 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-15 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:12 +0000"
     },
     "done": true
   },
@@ -2690,6 +2798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-15 17:04:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 15:54:14 +0000"
@@ -2702,6 +2816,19 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000",
+      "has_the_recipe": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-04-15 15:54:20 +0000"
@@ -2711,6 +2838,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-15 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-15 16:58:38 +0000"
     },
     "done": true
   },
@@ -2741,6 +2880,12 @@
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-15 16:58:38 +0000"
     },
     "done": true
   },
