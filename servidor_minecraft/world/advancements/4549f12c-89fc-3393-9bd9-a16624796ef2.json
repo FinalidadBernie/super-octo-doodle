@@ -55,29 +55,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2025-04-14 23:24:54 +0000",
       "minecraft:cold_ocean": "2025-04-15 15:41:38 +0000",
       "minecraft:snowy_slopes": "2025-04-14 23:23:33 +0000",
-      "minecraft:beach": "2025-04-13 22:12:34 +0000",
       "minecraft:forest": "2025-04-15 01:16:51 +0000",
       "minecraft:deep_ocean": "2025-04-15 01:13:36 +0000",
-      "minecraft:river": "2025-04-13 22:12:08 +0000",
-      "minecraft:snowy_plains": "2025-04-14 02:07:22 +0000",
       "minecraft:lush_caves": "2025-04-14 03:01:18 +0000",
-      "minecraft:frozen_peaks": "2025-04-14 23:19:17 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-13 22:11:08 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-15 15:50:43 +0000",
       "minecraft:desert": "2025-04-14 23:24:09 +0000",
       "minecraft:ocean": "2025-04-13 22:12:43 +0000",
       "minecraft:jungle": "2025-04-15 02:27:20 +0000",
       "minecraft:cherry_grove": "2025-04-14 02:07:40 +0000",
       "minecraft:sunflower_plains": "2025-04-15 15:35:09 +0000",
-      "minecraft:swamp": "2025-04-15 01:18:47 +0000",
       "minecraft:birch_forest": "2025-04-14 23:10:14 +0000",
-      "minecraft:savanna": "2025-04-14 01:06:15 +0000",
       "minecraft:wooded_badlands": "2025-04-14 23:31:34 +0000",
+      "minecraft:warm_ocean": "2025-04-14 23:34:33 +0000",
+      "minecraft:badlands": "2025-04-14 23:24:54 +0000",
+      "minecraft:beach": "2025-04-13 22:12:34 +0000",
+      "minecraft:river": "2025-04-13 22:12:08 +0000",
+      "minecraft:snowy_plains": "2025-04-14 02:07:22 +0000",
+      "minecraft:frozen_peaks": "2025-04-14 23:19:17 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-13 22:11:08 +0000",
+      "minecraft:swamp": "2025-04-15 01:18:47 +0000",
+      "minecraft:savanna": "2025-04-14 01:06:15 +0000",
       "minecraft:plains": "2025-04-14 00:17:38 +0000",
       "minecraft:jagged_peaks": "2025-04-15 00:22:58 +0000",
-      "minecraft:warm_ocean": "2025-04-14 23:34:33 +0000"
+      "minecraft:pale_garden": "2025-04-15 16:03:40 +0000"
     },
     "done": false
   },
@@ -2981,9 +2983,106 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-04-15 15:46:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/pale_oak": {
+    "criteria": {
+      "has_wood": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000",
+      "has_the_recipe": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-15 15:59:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-15 16:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-15 16:03:40 +0000"
     },
     "done": true
   },
