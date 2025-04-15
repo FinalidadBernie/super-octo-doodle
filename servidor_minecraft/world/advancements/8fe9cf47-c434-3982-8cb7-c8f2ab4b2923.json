@@ -64,6 +64,7 @@
       "minecraft:lush_caves": "2025-04-14 23:52:00 +0000",
       "minecraft:deep_cold_ocean": "2025-04-15 00:38:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 15:37:16 +0000",
+      "minecraft:desert": "2025-04-15 16:54:17 +0000",
       "minecraft:ocean": "2025-04-14 00:31:09 +0000",
       "minecraft:jungle": "2025-04-15 16:30:00 +0000",
       "minecraft:sunflower_plains": "2025-04-15 00:25:24 +0000",
@@ -825,6 +826,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-15 16:52:23 +0000",
       "minecraft:cave_spider": "2025-04-14 22:37:03 +0000",
       "minecraft:skeleton": "2025-04-14 01:35:34 +0000",
       "minecraft:spider": "2025-04-14 00:42:55 +0000",
@@ -2896,6 +2898,12 @@
       "has_logs": "2025-04-15 16:20:38 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-04-15 16:52:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
