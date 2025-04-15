@@ -629,3 +629,161 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [17:25:02] [Server thread/INFO]: SrLipord has made the advancement [Hidden in the Depths]
 [17:25:04] [Server thread/INFO]: Vector has made the advancement [Hidden in the Depths]
 [17:26:09] [Server thread/WARN]: Trying to set block entity net.minecraft.class_8172@1d4861f4 at position class_2338{x=-11166, y=115, z=-2018}, but state Block{minecraft:orange_terracotta} does not allow it
+[17:26:58] [Server thread/WARN]: SrLipord moved too quickly! -9.690073626949015,-1.5531999328374866,-2.523158087189131
+[17:26:58] [Server thread/WARN]: Vector moved too quickly! -7.7750049633323215,0.0013359791121558828,-6.56597713786573
+[17:27:08] [Server thread/INFO]: Vector has made the advancement [Best Friends Forever]
+[17:30:55] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[17:30:57] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[17:31:20] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
+[17:31:24] [Server thread/INFO]: SrLipord teleported to -11473.5 104.0 -2106.5 minecraft:overworld
+[17:32:47] [Server thread/WARN]: Vector moved too quickly! -9.058223427569828,-4.249187078744683,-2.1616275064452566
+[17:33:24] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[17:34:14] [Server thread/INFO]: SrLipord has made the advancement [Best Friends Forever]
+[17:36:33] [Server thread/INFO]: Villager class_1646['Nitwit'/63188, l='ServerLevel[world]', x=-11982.13, y=77.44, z=-1838.05] died, message: 'Nitwit went up in flames'
+[17:37:28] [Server thread/INFO]: Villager class_1646['Unemployed'/62151, l='ServerLevel[world]', x=-12030.10, y=73.44, z=-1864.08] died, message: 'Unemployed went up in flames'
+[17:37:49] [Server thread/INFO]: Luna_trix[/127.220.222.95:52013] logged in with entity id 64018 at (56850.551479714246, 54.0, 1055851.51910579)
+[17:37:49] [Server thread/INFO]: Luna_trix joined the game
+[17:37:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[17:40:01] [Server thread/INFO]: Villager class_1646['Unemployed'/62152, l='ServerLevel[world]', x=-12029.80, y=73.44, z=-1865.23] died, message: 'Unemployed went up in flames'
+[17:45:16] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[17:45:16] [Server thread/INFO]: Luna_trix left the game
+[17:45:31] [Server thread/INFO]: Luna_trix[/127.220.222.95:37609] logged in with entity id 67900 at (56847.57720581272, 16.0, 1055886.699999988)
+[17:45:31] [Server thread/INFO]: Luna_trix joined the game
+[17:45:31] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[17:46:52] [Server thread/INFO]: Villager class_1646['Nitwit'/62153, l='ServerLevel[world]', x=-12031.28, y=73.44, z=-1863.72] died, message: 'Nitwit went up in flames'
+[17:50:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:50:55] [Server thread/INFO]: <--[HERE]
+[17:56:09] [Server thread/INFO]: Villager class_1646['Unemployed'/61783, l='ServerLevel[world]', x=-11938.61, y=76.90, z=-1883.05] died, message: 'Unemployed was slain by Zombie'
+[17:58:07] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:07] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:07] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:07] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:07] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:08] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:08] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:08] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:08] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:08] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:09] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:09] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:09] [Server thread/INFO]: [Not Secure] <SrLipord> z
+[17:58:24] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[17:58:24] [Server thread/INFO]: Luna_trix left the game
+[18:00:25] [Server thread/INFO]: Vector was blown up by Creeper
+[18:00:27] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[18:00:33] [Server thread/INFO]: Vector teleported to -12007.5 60.0 -1881.5 minecraft:overworld
+[18:01:11] [Server thread/WARN]: Vector moved too quickly! -1.3970233840500441,1.3986379446721315,-9.84460611134159
+[18:01:41] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[18:03:21] [Server thread/INFO]: Vector teleported to -11941.5 76.0 -2010.5 minecraft:overworld
+[18:03:59] [Server thread/INFO]: [Vector: Teleported Vector to SrLipord]
+[18:06:25] [Server thread/INFO]: Luna_trix[/127.220.222.95:51403] logged in with entity id 76823 at (56829.29211365309, -23.0, 1055907.699999988)
+[18:06:25] [Server thread/INFO]: Luna_trix joined the game
+[18:06:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[18:09:02] [Server thread/INFO]: Vector has made the advancement [The Cutest Predator]
+[18:10:20] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[18:13:29] [Server thread/INFO]: SrLipord teleported to -12291.5 1.0 -1827.5 minecraft:overworld
+[18:16:20] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[18:16:20] [Server thread/INFO]: Luna_trix left the game
+[18:17:36] [Server thread/INFO]: Vector lost connection: Timed out
+[18:17:36] [Server thread/INFO]: Vector left the game
+[18:17:39] [Server thread/INFO]: Vector[/127.193.171.90:41633] logged in with entity id 82379 at (-12307.090739929436, -19.0, -1901.570256205039)
+[18:17:39] [Server thread/INFO]: Vector joined the game
+[18:17:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[18:18:48] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[18:24:04] [Server thread/INFO]: Vector has made the advancement [Hot Stuff]
+[18:35:12] [Server thread/INFO]: SrLipord was slain by Zombie
+[18:35:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[18:35:19] [Server thread/INFO]: SrLipord teleported to -11955.5 -49.0 -2078.5 minecraft:overworld
+[18:36:29] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[18:37:02] [Server thread/INFO]: SrLipord teleported to -11925.5 -54.0 -2079.5 minecraft:overworld
+[18:37:11] [Server thread/INFO]: Luna_trix[/127.220.222.95:54483] logged in with entity id 89170 at (56858.044497831295, -60.0, 1055878.9792938652)
+[18:37:11] [Server thread/INFO]: Luna_trix joined the game
+[18:37:11] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[18:38:48] [Server thread/WARN]: Vector moved too quickly! -8.282926469768427,1.5870907195829886,5.695391317005033
+[18:39:17] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[18:41:29] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[18:44:23] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[18:44:56] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[18:45:32] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[18:49:22] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[18:51:48] [Server thread/INFO]: Luna_trix teleported to 56858.5 -60.0 1055884.5 minecraft:overworld
+[18:54:14] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
+[18:57:22] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[18:57:30] [Server thread/INFO]: SrLipord was blown up by Creeper
+[18:57:32] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[18:57:38] [Server thread/INFO]: SrLipord teleported to -2235.5 143.0 -11956.5 minecraft:overworld
+[18:59:24] [Server thread/INFO]: KHPL707[/127.73.22.10:55195] logged in with entity id 100736 at (-10753.004408444154, 138.0, -2529.5765973662265)
+[18:59:24] [Server thread/INFO]: KHPL707 joined the game
+[18:59:25] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[19:04:59] [Server thread/INFO]: Vector lost connection: Timed out
+[19:04:59] [Server thread/INFO]: Vector left the game
+[19:05:28] [Server thread/INFO]: [Not Secure] <KHPL707> 67
+[19:05:37] [Server thread/INFO]: Vector[/127.193.171.90:55741] logged in with entity id 104591 at (-10877.877960822401, 207.0, -2450.5626328797835)
+[19:05:37] [Server thread/INFO]: Vector joined the game
+[19:05:37] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[19:06:09] [Server thread/INFO]: KHPL707 was doomed to fall by Wolf
+[19:06:12] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[19:06:22] [Server thread/INFO]: KHPL707 teleported to 287.5 -22.0 -1164.5 minecraft:overworld
+[19:06:30] [Server thread/INFO]: KHPL707 teleported to 56579.5 96.0 1055577.5 minecraft:overworld
+[19:06:33] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[19:06:39] [Server thread/INFO]: KHPL707 teleported to 297.5 -19.0 -1143.5 minecraft:overworld
+[19:06:43] [Server thread/INFO]: KHPL707 teleported to 297.5 -19.0 -1143.5 minecraft:overworld
+[19:06:48] [Server thread/INFO]: KHPL707 teleported to 287.5 -22.0 -1164.5 minecraft:overworld
+[19:06:51] [Server thread/INFO]: KHPL707 teleported to 56579.5 96.0 1055577.5 minecraft:overworld
+[19:06:55] [Server thread/INFO]: KHPL707 teleported to 56585.5 98.0 1055576.5 minecraft:overworld
+[19:06:58] [Server thread/INFO]: KHPL707 teleported to 297.5 -19.0 -1143.5 minecraft:overworld
+[19:07:10] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to Vector]
+[19:08:10] [Server thread/INFO]: KHPL707 teleported to -10934.5 179.0 -2455.5 minecraft:overworld
+[19:08:36] [Server thread/INFO]: [Not Secure] <KHPL707> ACA TRAIGO MAS HOJAS
+[19:09:07] [Server thread/INFO]: Vector lost connection: Disconnected
+[19:09:07] [Server thread/INFO]: Vector left the game
+[19:09:16] [Server thread/INFO]: [Not Secure] <KHPL707> VOY A LA CASA
+[19:11:58] [Server thread/INFO]: [Not Secure] <KHPL707> LIPORT
+[19:12:02] [Server thread/INFO]: [Not Secure] <KHPL707> PUEDO IR AYA¿
+[19:12:22] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to SrLipord]
+[19:13:17] [Server thread/INFO]: SrLipord was shot by Skeleton
+[19:13:19] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[19:13:22] [Server thread/INFO]: SrLipord teleported to -1693.5 156.0 -13234.5 minecraft:overworld
+[19:13:31] [Server thread/INFO]: KHPL707 was slain by Zombie
+[19:13:32] [Server thread/INFO]: SrLipord was slain by Zombie
+[19:13:33] [Server thread/INFO]: [do_a_barrel_roll] Client of KHPL707 accepted server config.
+[19:13:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[19:13:37] [Server thread/INFO]: SrLipord teleported to -1680.5 152.0 -13233.5 minecraft:overworld
+[19:13:40] [Server thread/INFO]: KHPL707 teleported to 56579.5 96.0 1055577.5 minecraft:overworld
+[19:13:41] [Server thread/INFO]: SrLipord was blown up by Creeper
+[19:13:43] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[19:13:43] [Server thread/INFO]: Villager class_1646['Nitwit'/111812, l='ServerLevel[world]', x=56510.66, y=126.50, z=1055519.33] died, message: 'Nitwit hit the ground too hard'
+[19:13:46] [Server thread/INFO]: SrLipord teleported to -1680.5 152.0 -13233.5 minecraft:overworld
+[19:13:49] [Server thread/INFO]: KHPL707 teleported to 287.5 -22.0 -1164.5 minecraft:overworld
+[19:13:51] [Server thread/INFO]: SrLipord was slain by Zombie
+[19:13:52] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[19:13:55] [Server thread/INFO]: KHPL707 teleported to 56585.5 98.0 1055576.5 minecraft:overworld
+[19:13:58] [Server thread/INFO]: SrLipord teleported to -1680.5 152.0 -13233.5 minecraft:overworld
+[19:14:04] [Server thread/INFO]: [Not Secure] <KHPL707> se me volvio a lagear
+[19:14:09] [Server thread/INFO]: KHPL707 teleported to 297.5 -19.0 -1143.5 minecraft:overworld
+[19:14:13] [Server thread/INFO]: KHPL707 teleported to -10934.5 179.0 -2455.5 minecraft:overworld
+[19:14:18] [Server thread/INFO]: [Not Secure] <KHPL707> SISISI
+[19:14:27] [Server thread/INFO]: KHPL707 teleported to -1689.5 155.0 -13235.5 minecraft:overworld
+[19:14:34] [Server thread/INFO]: [Not Secure] <KHPL707> YA
+[19:16:55] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to SrLipord]
+[19:17:47] [Server thread/INFO]: KHPL707 has made the advancement [Local Brewery]
+[19:18:59] [Server thread/INFO]: [Not Secure] <KHPL707> liprot
+[19:19:07] [Server thread/INFO]: [Not Secure] <KHPL707> quiero una espada asi de pro
+[19:19:18] [Server thread/INFO]: [Not Secure] <KHPL707> coko la tuya
+[19:19:23] [Server thread/INFO]: [Not Secure] <KHPL707> nonono
+[19:19:27] [Server thread/INFO]: [Not Secure] <KHPL707> como se mejora y eso
+[19:20:00] [Server thread/INFO]: [Not Secure] <KHPL707> como t ases esa mochiña
+[19:20:49] [Server thread/INFO]: [Not Secure] <KHPL707> es una mas chafa
+[19:20:59] [Server thread/INFO]: [Not Secure] <KHPL707> como qno
+[19:21:03] [Server thread/INFO]: [Not Secure] <KHPL707> AJDJAKDJAKJDA+
+[19:22:12] [Server thread/INFO]: [Not Secure] <KHPL707> TODO ES NECESARIO
+[19:23:16] [Server thread/INFO]: KHPL707 has made the advancement [Packing Up!]
+[19:23:36] [Server thread/INFO]: [Not Secure] <KHPL707> OOOOOOOOOOOOOOOOOOOH
+[19:23:40] [Server thread/INFO]: [Not Secure] <KHPL707> WWWWWAOS
+[19:23:52] [Server thread/INFO]: KHPL707 has made the advancement [Bigger is better]
+[19:24:50] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[19:25:07] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
+[19:25:09] [Server thread/INFO]: [Not Secure] <KHPL707> NO M DEJA
+[19:26:13] [Server thread/INFO]: [Not Secure] <KHPL707> no me quiere dejar
+[19:27:00] [Server thread/INFO]: [Not Secure] <KHPL707> chanfles
+[19:27:16] [Server thread/INFO]: [Not Secure] <KHPL707> igual
