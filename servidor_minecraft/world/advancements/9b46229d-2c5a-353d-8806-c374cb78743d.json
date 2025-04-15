@@ -2654,6 +2654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-15 17:11:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-15 16:58:38 +0000"
