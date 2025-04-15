@@ -500,3 +500,80 @@
 [02:18:01] [Server thread/INFO]: Jhoec lost connection: Disconnected
 [02:18:01] [Server thread/INFO]: Jhoec left the game
 [02:19:16] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[02:20:29] [Server thread/INFO]: Gathooo teleported to 54867.5 121.0 1054509.5 minecraft:overworld
+[02:20:59] [Worker-Main-1/ERROR]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=1]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: class_2338{x=56504, y=68, z=1055544} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[02:23:34] [Server thread/WARN]: Luna_trix moved too quickly! 10.133990780777822,-0.756759288177264,-2.40420616324991
+[02:23:37] [Server thread/INFO]: Luna_trix has made the advancement [Skyward Cities]
+[02:27:19] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
+[02:27:38] [Server thread/INFO]: SrLipord has made the advancement [Skyward Cities]
+[02:28:46] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[02:30:04] [Server thread/WARN]: Trying to set block entity net.minecraft.class_2636@5336798d at position class_2338{x=56701, y=89, z=1056097}, but state Block{minecraft:mossy_stone_bricks} does not allow it
+[02:30:27] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
+[02:32:45] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[02:35:52] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[02:37:41] [Server thread/INFO]: Gathooo was shot by Skeleton
+[02:37:42] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[02:37:48] [Server thread/INFO]: Gathooo teleported to 56866.5 61.0 1055760.5 minecraft:overworld
+[02:38:01] [Server thread/INFO]: Gathooo teleported to 54906.5 85.0 1054494.5 minecraft:overworld
+[02:42:10] [Server thread/INFO]: [Not Secure] <Gathooo> dsd
+[02:42:23] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
+[02:42:26] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[02:46:15] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[02:47:39] [Server thread/INFO]: Gathooo has made the advancement [What a Deal!]
+[02:49:29] [Server thread/INFO]: Gathooo lost connection: Timed out
+[02:49:29] [Server thread/INFO]: Gathooo left the game
+[02:49:29] [Server thread/INFO]: Luna_trix lost connection: Timed out
+[02:49:29] [Server thread/INFO]: Luna_trix left the game
+[02:49:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:49:32] [Server thread/INFO]: <--[HERE]
+[02:49:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:49:32] [Server thread/INFO]: <--[HERE]
+[02:49:35] [Server thread/INFO]: [Not Secure] [Server] hola
+[02:49:47] [Server thread/INFO]: Luna_trix[/127.220.222.95:37813] logged in with entity id 227647 at (56865.30000001192, 67.41999998688698, 1055820.670006155)
+[02:49:47] [Server thread/INFO]: Luna_trix joined the game
+[02:49:47] [Server thread/INFO]: Gathooo[/127.47.238.219:39217] logged in with entity id 227648 at (54872.70964165985, 87.17000010013581, 1054473.273807692)
+[02:49:47] [Server thread/INFO]: Gathooo joined the game
+[02:49:47] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[02:49:47] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[02:50:01] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[02:50:01] [Server thread/INFO]: Gathooo left the game
+[02:50:07] [Server thread/INFO]: Gathooo[/127.47.238.219:45671] logged in with entity id 228307 at (54865.9025651048, 88.0, 1054460.9732419138)
+[02:50:07] [Server thread/INFO]: Gathooo joined the game
+[02:50:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[02:50:21] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Luna_trix]
+[02:52:26] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[02:52:31] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Vector]
+[02:53:50] [Server thread/WARN]: Vector moved too quickly! 8.024447290390526,-5.9215999984741075,-1.4195670537510523
+[02:58:54] [Server thread/INFO]: Vector was shot by Skeleton
+[02:58:56] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[02:59:28] [Server thread/INFO]: Luna_trix lost connection: Disconnected
+[02:59:28] [Server thread/INFO]: Luna_trix left the game
+[02:59:55] [Server thread/INFO]: Vector lost connection: Disconnected
+[02:59:55] [Server thread/INFO]: Vector left the game
+[03:01:03] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[03:01:10] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[03:01:16] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[03:01:24] [Server thread/INFO]: SrLipord teleported to -2482.5 321.0 -12413.5 minecraft:overworld
+[03:02:09] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[03:02:09] [Server thread/INFO]: SrLipord left the game
+[03:02:30] [Server thread/INFO]: Stopping the server
+[03:02:30] [Server thread/INFO]: Stopping server
+[03:02:30] [Server thread/INFO]: Saving players
+[03:02:30] [Server thread/INFO]: Saving worlds
+[03:02:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:02:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:02:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:02:33] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[03:02:33] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
