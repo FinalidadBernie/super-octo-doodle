@@ -528,3 +528,74 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [02:44:12] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
 [02:44:23] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
 [02:46:28] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[02:46:50] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Vector]
+[02:47:01] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[02:48:33] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[02:48:46] [Server thread/INFO]: Luna_trix teleported to 56641.5 -59.0 1056138.5 minecraft:overworld
+[02:49:49] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:50:12] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:50:15] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:50:44] [Server thread/INFO]: Luna_trix teleported to 56641.5 -59.0 1056138.5 minecraft:overworld
+[02:52:27] [Server thread/INFO]: Gathooo was slain by Zombie
+[02:52:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[02:52:54] [Server thread/INFO]: Gathooo teleported to 56836.5 74.0 1055851.5 minecraft:overworld
+[02:53:51] [Server thread/INFO]: SrLipord teleported to -938.5 233.0 -13534.5 minecraft:overworld
+[02:54:09] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot read field "field_11885" because "brewingStand" is null
+[02:54:09] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[02:54:09] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot read field "field_11885" because "brewingStand" is null
+	at knot/snownee.jade.addon.vanilla.BrewingStandProvider.streamData(BrewingStandProvider.java:44) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.addon.vanilla.BrewingStandProvider.streamData(BrewingStandProvider.java:21) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:54:13] [Server thread/WARN]: Vector moved too quickly! -6.175268192360818,0.42355929454302554,-8.160198880847929
+[02:55:43] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Vector]
+[02:56:41] [Server thread/INFO]: Gathooo teleported to 56836.5 74.0 1055851.5 minecraft:overworld
+[02:57:43] [Server thread/INFO]: SrLipord teleported to 3485.5 117.0 -64.5 minecraft:overworld
+[02:57:49] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:59:08] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Vector]
+[02:59:14] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:59:35] [Server thread/INFO]: SrLipord was blown up by Creeper
+[02:59:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[02:59:37] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Vector]
+[02:59:43] [Server thread/INFO]: SrLipord teleported to 3631.5 120.0 180.5 minecraft:overworld
+[02:59:55] [Server thread/INFO]: SrLipord was shot by Skeleton
+[02:59:57] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[03:00:04] [Server thread/INFO]: SrLipord teleported to 3630.5 119.0 181.5 minecraft:overworld
+[03:00:21] [Server thread/INFO]: SrLipord was slain by Zombie
+[03:00:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[03:00:36] [Server thread/INFO]: SrLipord teleported to 3630.5 118.0 182.5 minecraft:overworld
+[03:00:38] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
+[03:00:40] [Server thread/INFO]: SrLipord was slain by Zombie
+[03:00:43] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[03:00:55] [Server thread/INFO]: SrLipord teleported to 3633.5 118.0 185.5 minecraft:overworld
+[03:00:59] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[03:01:30] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
+[03:01:49] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
+[03:02:34] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[03:05:18] [Server thread/INFO]: ItsLiloRD[/127.85.73.146:37759] logged in with entity id 53574 at (-652.5, 74.0, 145.5)
+[03:05:18] [Server thread/INFO]: ItsLiloRD joined the game
+[03:05:19] [Server thread/INFO]: [do_a_barrel_roll] Client of ItsLiloRD accepted server config.
+[03:05:25] [Server thread/INFO]: [Not Secure] <ItsLiloRD> zy
+[03:05:32] [Server thread/INFO]: [Not Secure] <SrLipord> Hombre
+[03:05:34] [Server thread/INFO]: [Not Secure] <SrLipord> que sorpresa
+[03:05:40] [Server thread/INFO]: [Not Secure] <SrLipord> sea usted bienvenido
+[03:05:49] [Server thread/INFO]: [Not Secure] <ItsLiloRD> <#
+[03:05:52] [Server thread/INFO]: [Not Secure] <ItsLiloRD> <3
+[03:06:08] [Server thread/INFO]: [Not Secure] <SrLipord> no entra al voice?
+[03:07:04] [Server thread/INFO]: ItsLiloRD has made the advancement [Stone Age]
+[03:07:25] [Server thread/INFO]: ItsLiloRD has made the advancement [Getting an Upgrade]
+[03:07:27] [Server thread/INFO]: [Not Secure] <SrLipord> Lilo
