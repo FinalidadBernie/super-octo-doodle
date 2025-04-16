@@ -1515,5 +1515,11 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-04-16 23:09:26 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4189
 }
