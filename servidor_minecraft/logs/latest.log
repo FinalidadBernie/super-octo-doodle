@@ -910,3 +910,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [05:09:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
 [05:09:20] [Server thread/INFO]: Gathooo teleported to -12263.5 3.0 -1805.5 minecraft:overworld
 [05:10:04] [Server thread/INFO]: [do_a_barrel_roll] Client of EldeLasRecargas accepted server config.
+[05:11:39] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[05:11:39] [Server thread/INFO]: Gathooo left the game
+[05:11:49] [Server thread/INFO]: EldeLasRecargas lost connection: Disconnected
+[05:11:49] [Server thread/INFO]: EldeLasRecargas left the game
+[05:13:41] [Server thread/INFO]: Gathorin[/127.47.238.219:59089] logged in with entity id 123012 at (-649.5, 74.0, 140.5)
+[05:13:41] [Server thread/INFO]: Gathorin joined the game
+[05:13:42] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[05:13:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[05:15:19] [Server thread/INFO]: [SrLipord: Teleported Gathorin to SrLipord]
+[05:15:29] [Server thread/INFO]: [SrLipord: Made Gathorin a server operator]
+[05:15:29] [Server thread/INFO]: [Not Secure] <KHPL707> conocen a little jesus?
+[05:15:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathorin accepted server config.
+[05:15:41] [Server thread/INFO]: Gathorin has made the advancement [Stone Age]
+[05:16:57] [Server thread/INFO]: [Not Secure] <KHPL707> pongan muscikita
+[05:17:57] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
+[05:18:02] [Server thread/INFO]: [Not Secure] <KHPL707> como se nada
+[05:18:26] [Server thread/INFO]: [Not Secure] <KHPL707> cual es la correr
+[05:19:13] [Server thread/INFO]: [Not Secure] <KHPL707> que menso
+[05:19:13] [Server thread/INFO]: [Gathorin: Teleported Gathorin to SrLipord]
+[05:19:22] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to Gathorin]
+[05:19:34] [Server thread/INFO]: [SrLipord: Teleported SrLipord to KHPL707]
+[05:19:46] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[05:19:48] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[05:19:50] [Server thread/INFO]: [Gathorin: Teleported Gathorin to SrLipord]
+[05:20:02] [Server thread/INFO]: [SrLipord: Teleported KHPL707 to SrLipord]
+[05:20:04] [Server thread/INFO]: [KHPL707: Teleported KHPL707 to SrLipord]

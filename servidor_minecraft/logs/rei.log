@@ -729,3 +729,5 @@ java.lang.Throwable
 [05:06:46] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: 1AAD2EAF00000001], sending reset packet request.
 [05:08:09] [Server thread/DEBUG] [REI] Player EldeLasRecargas has outdated displays version 0 [latest version: 1AAD2EAF00000001]
 [05:08:09] [Server thread/DEBUG] [REI] Player EldeLasRecargas has outdated displays version 0 [latest version: 1AAD2EAF00000001], sending reset packet request.
+[05:13:41] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: 1AAD2EAF00000001]
+[05:13:41] [Server thread/DEBUG] [REI] Player Gathorin has outdated displays version 0 [latest version: 1AAD2EAF00000001], sending reset packet request.
