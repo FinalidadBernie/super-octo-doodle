@@ -348,3 +348,7 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [00:25:15] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@5ac9cf8e for service interface journeymap.api.services.CommonPlatformService
 [00:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
 [00:26:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:55:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:55:50] [Server thread/INFO]: <--[HERE]
+[00:55:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:55:50] [Server thread/INFO]: <--[HERE]
