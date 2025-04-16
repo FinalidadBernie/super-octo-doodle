@@ -1476,3 +1476,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [06:55:17] [Server thread/INFO]: SrLipord teleported to -1660.5 224.0 -11367.5 minecraft:overworld
 [06:55:22] [Server thread/INFO]: [SrLipord: Teleported Gathorin to SrLipord]
 [06:59:20] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathorin]
+[07:08:18] [Server thread/INFO]: SrLipord was blown up by Creeper
+[07:08:20] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:08:24] [Server thread/INFO]: SrLipord teleported to -1678.5 228.0 -11330.5 minecraft:overworld
+[07:08:59] [Server thread/INFO]: [SrLipord: Stopping the server]
+[07:08:59] [Server thread/INFO]: Stopping server
+[07:08:59] [Server thread/INFO]: Saving players
+[07:08:59] [Server thread/INFO]: SrLipord lost connection: Server closed
+[07:08:59] [Server thread/INFO]: SrLipord left the game
+[07:08:59] [Server thread/INFO]: Saving worlds
+[07:08:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:09:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:09:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:09:00] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[07:09:00] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml

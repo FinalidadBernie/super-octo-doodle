@@ -3747,75 +3747,82 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "requirement": "2025-04-16 07:08:57 +0000",
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 06:56:36 +0000"
+      "log_spam_fixer": "2025-04-16 07:08:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-04-16 07:02:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
@@ -3899,6 +3906,12 @@
   "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-16 03:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-04-16 07:02:52 +0000"
     },
     "done": true
   },
@@ -3995,6 +4008,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-16 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-16 07:08:28 +0000"
     },
     "done": true
   },
@@ -4097,6 +4116,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-16 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-16 07:08:28 +0000"
     },
     "done": true
   },
