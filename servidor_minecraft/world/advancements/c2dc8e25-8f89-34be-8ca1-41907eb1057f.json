@@ -67,7 +67,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -83,15 +83,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 05:49:01 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-16 05:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-16 06:06:22 +0000"
     },
     "done": true
   },
@@ -158,6 +170,12 @@
   "terrestria:recipes/transportation/japanese_maple_boat": {
     "criteria": {
       "in_water": "2025-04-16 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 05:49:01 +0000"
     },
     "done": true
   },
@@ -257,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 05:32:10 +0000"
@@ -281,9 +305,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -325,7 +355,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -383,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-16 05:53:26 +0000"
+    },
+    "done": true
+  },
   "backpacks:tree/root": {
     "criteria": {
       "requirement": "2025-04-16 05:13:41 +0000"
@@ -392,6 +428,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 05:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-16 06:06:22 +0000"
     },
     "done": true
   },
@@ -421,6 +463,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-16 05:53:14 +0000",
+      "minecraft:vindicator": "2025-04-16 05:53:12 +0000",
+      "minecraft:stray": "2025-04-16 05:53:16 +0000",
+      "minecraft:witch": "2025-04-16 05:53:11 +0000",
       "minecraft:zombie": "2025-04-16 05:29:10 +0000"
     },
     "done": false
@@ -443,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-16 06:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 05:32:10 +0000"
@@ -458,6 +510,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 05:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 05:53:41 +0000"
     },
     "done": true
   },
@@ -487,7 +545,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -503,9 +561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-16 06:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-16 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
     },
     "done": true
   },
@@ -518,6 +588,24 @@
   "terrestria:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-16 05:15:19 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-04-16 05:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-16 05:54:13 +0000"
     },
     "done": true
   },
@@ -535,7 +623,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -548,6 +636,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-16 05:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-16 06:06:43 +0000"
     },
     "done": true
   },
@@ -581,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-16 06:00:04 +0000"
+    },
+    "done": true
+  },
   "terrestria:recipes/transportation/rubber_boat": {
     "criteria": {
       "in_water": "2025-04-16 05:15:19 +0000"
@@ -605,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-16 05:27:44 +0000"
@@ -619,13 +725,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -745,7 +851,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -853,13 +959,19 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-04-16 05:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
     },
     "done": true
   },
@@ -953,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 05:15:41 +0000"
@@ -1033,7 +1151,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -1057,7 +1175,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:30 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -1079,11 +1197,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 05:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-04-16 05:27:44 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-16 05:54:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -1102,6 +1232,12 @@
       "log_spam_fixer": "2025-04-16 05:13:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-16 05:53:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
@@ -1172,6 +1308,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 05:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-16 05:53:12 +0000"
     },
     "done": true
   },

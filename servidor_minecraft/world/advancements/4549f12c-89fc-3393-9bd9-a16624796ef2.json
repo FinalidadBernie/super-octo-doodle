@@ -1081,6 +1081,7 @@
       "bread": "2025-04-14 00:34:23 +0000",
       "cooked_mutton": "2025-04-15 00:02:56 +0000",
       "cooked_beef": "2025-04-14 02:07:54 +0000",
+      "baked_potato": "2025-04-16 06:00:49 +0000",
       "golden_carrot": "2025-04-14 00:23:53 +0000"
     },
     "done": false
@@ -1534,6 +1535,7 @@
       "minecraft:pillager": "2025-04-15 00:18:33 +0000",
       "minecraft:skeleton": "2025-04-14 00:58:01 +0000",
       "minecraft:phantom": "2025-04-14 23:08:28 +0000",
+      "minecraft:witch": "2025-04-16 05:51:43 +0000",
       "minecraft:husk": "2025-04-15 22:04:22 +0000",
       "minecraft:bogged": "2025-04-15 20:07:15 +0000",
       "minecraft:cave_spider": "2025-04-14 02:30:58 +0000",
@@ -3740,73 +3742,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "requirement": "2025-04-16 06:06:59 +0000",
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-16 05:46:29 +0000"
+      "log_spam_fixer": "2025-04-16 06:06:30 +0000"
     },
     "done": false
   },
@@ -3825,6 +3828,12 @@
   "mcwdoors:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-04-16 03:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-16 06:02:10 +0000"
     },
     "done": true
   },
@@ -3874,6 +3883,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-16 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-16 06:02:10 +0000"
     },
     "done": true
   },
@@ -4027,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-16 05:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-04-16 03:46:29 +0000"
@@ -4129,6 +4150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-16 06:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-16 03:45:15 +0000"
@@ -4225,6 +4252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 05:52:55 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-16 03:51:50 +0000"
@@ -4252,6 +4285,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-16 03:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-16 05:52:55 +0000"
     },
     "done": true
   },
