@@ -352,3 +352,179 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [00:55:50] [Server thread/INFO]: <--[HERE]
 [00:55:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [00:55:50] [Server thread/INFO]: <--[HERE]
+[01:46:59] [Server thread/INFO]: Gathooo[/127.47.238.219:36069] logged in with entity id 150 at (-11658.918914227223, 91.0, -2443.9766416079724)
+[01:46:59] [Server thread/INFO]: Gathooo joined the game
+[01:47:04] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[01:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
+[01:47:08] [Server thread/WARN]: Gathooo moved too quickly! 0.0,-31.0,0.0
+[01:47:29] [Server thread/INFO]: Gathooo teleported to -11281.0 107.0 -2063.0 minecraft:overworld
+[01:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5133ms or 102 ticks behind
+[01:47:46] [Server thread/INFO]: [Not Secure] <Gathooo> t
+[01:47:55] [Server thread/WARN]: Trying to set block entity net.minecraft.class_8172@14570609 at position class_2338{x=-11166, y=115, z=-2018}, but state Block{minecraft:orange_terracotta} does not allow it
+[01:52:17] [Server thread/INFO]: Gathooo teleported to -11206.0 123.0 -2154.0 minecraft:overworld
+[01:52:39] [Server thread/INFO]: Gathooo has made the advancement [Hidden in the Depths]
+[01:52:48] [Server thread/INFO]: Luna_trix[/127.220.222.95:40925] logged in with entity id 2491 at (56807.00977920526, -59.0, 1056154.466686146)
+[01:52:48] [Server thread/INFO]: Luna_trix joined the game
+[01:52:49] [Server thread/INFO]: [do_a_barrel_roll] Client of Luna_trix accepted server config.
+[01:53:04] [Server thread/INFO]: Gathooo teleported to -11326.0 106.0 -2109.0 minecraft:overworld
+[01:53:14] [Server thread/INFO]: Gathooo teleported to -10952.0 152.0 -2330.0 minecraft:overworld
+[01:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[01:53:48] [Server thread/INFO]: Gathooo teleported to -10972.0 153.0 -2477.0 minecraft:overworld
+[01:54:16] [Server thread/INFO]: Gathooo teleported to -10852.0 196.0 -2227.0 minecraft:overworld
+[01:54:47] [Server thread/INFO]: Gathooo teleported to -11122.0 135.0 -2302.0 minecraft:overworld
+[01:55:58] [Server thread/INFO]: Gathooo teleported to -11101.0 128.0 -2430.0 minecraft:overworld
+[01:56:36] [Server thread/INFO]: Gathooo teleported to -11154.0 120.0 -2492.0 minecraft:overworld
+[01:56:48] [Server thread/ERROR]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
+[01:56:48] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[01:56:48] [Server thread/ERROR]: 
+java.lang.NullPointerException: Cannot read field "field_55576" because "furnace" is null
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:41) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:20) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.4-Fabric-17.2.2.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:58:44] [Server thread/INFO]: Gathooo teleported to -11290.0 104.0 -2392.0 minecraft:overworld
+[01:59:04] [Server thread/INFO]: Gathooo teleported to -10991.0 123.0 -2655.0 minecraft:overworld
+[01:59:54] [Server thread/INFO]: Gathooo teleported to -11067.0 116.0 -2831.0 minecraft:overworld
+[02:00:13] [Server thread/INFO]: Gathooo teleported to -11135.0 118.0 -2896.0 minecraft:overworld
+[02:00:16] [Server thread/INFO]: Gathooo teleported to -11160.0 99.0 -2825.0 minecraft:overworld
+[02:00:54] [Server thread/INFO]: Gathooo teleported to -11157.0 122.0 -2927.0 minecraft:overworld
+[02:01:27] [Server thread/INFO]: Gathooo teleported to -11175.0 109.0 -3006.0 minecraft:overworld
+[02:01:44] [Server thread/INFO]: Gathooo teleported to -11210.0 121.0 -1675.0 minecraft:overworld
+[02:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6215ms or 124 ticks behind
+[02:02:32] [Server thread/INFO]: Gathooo teleported to -11137.0 146.0 -1601.0 minecraft:overworld
+[02:02:52] [Server thread/INFO]: Gathooo teleported to -11093.0 149.0 -1538.0 minecraft:overworld
+[02:03:06] [Server thread/INFO]: Gathooo teleported to -11050.0 142.0 -1575.0 minecraft:overworld
+[02:04:00] [Server thread/INFO]: Gathooo teleported to -11070.0 146.0 -1443.0 minecraft:overworld
+[02:04:26] [Server thread/INFO]: Gathooo teleported to -11059.0 125.0 -1728.0 minecraft:overworld
+[02:04:52] [Server thread/INFO]: Gathooo teleported to -11102.0 130.0 -1791.0 minecraft:overworld
+[02:05:01] [Server thread/INFO]: Gathooo teleported to -11009.0 132.0 -1808.0 minecraft:overworld
+[02:05:13] [Server thread/INFO]: Gathooo teleported to -10977.0 139.0 -1852.0 minecraft:overworld
+[02:05:23] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:05:33] [Server thread/INFO]: Gathooo teleported to -10880.0 64.0 -1806.0 minecraft:overworld
+[02:05:35] [Server thread/INFO]: Gathooo fell from a high place
+[02:05:37] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[02:05:42] [Server thread/INFO]: Gathooo teleported to 53622.5 73.0 1055165.5 minecraft:overworld
+[02:06:06] [Server thread/INFO]: Gathooo teleported to 53691.5 76.0 1055152.5 minecraft:overworld
+[02:06:09] [Server thread/INFO]: Gathooo teleported to 53621.5 74.0 1055183.5 minecraft:overworld
+[02:06:12] [Server thread/INFO]: Gathooo teleported to 53622.5 73.0 1055165.5 minecraft:overworld
+[02:06:21] [Server thread/INFO]: Gathooo teleported to -239.5 -39.0 209.5 minecraft:overworld
+[02:06:27] [Server thread/INFO]: Gathooo teleported to -10879.5 29.0 -1805.5 minecraft:overworld
+[02:07:03] [Server thread/INFO]: Gathooo teleported to -10865.0 153.0 -1871.0 minecraft:overworld
+[02:07:17] [Server thread/INFO]: Gathooo teleported to -10785.0 141.0 -1807.0 minecraft:overworld
+[02:07:46] [Server thread/INFO]: Gathooo teleported to -10767.0 124.0 -1708.0 minecraft:overworld
+[02:07:58] [Server thread/INFO]: Gathooo teleported to -10784.0 127.0 -1635.0 minecraft:overworld
+[02:08:09] [Server thread/INFO]: Gathooo teleported to -10766.0 116.0 -1572.0 minecraft:overworld
+[02:08:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:08:49] [Server thread/INFO]: <--[HERE]
+[02:08:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:08:49] [Server thread/INFO]: <--[HERE]
+[02:08:57] [Server thread/INFO]: Gathooo teleported to -10807.0 158.0 -1936.0 minecraft:overworld
+[02:09:08] [Server thread/INFO]: Gathooo teleported to -10725.0 151.0 -1863.0 minecraft:overworld
+[02:09:21] [Server thread/INFO]: Gathooo teleported to -10689.0 158.0 -1902.0 minecraft:overworld
+[02:09:36] [Server thread/INFO]: Gathooo teleported to -10609.0 151.0 -1918.0 minecraft:overworld
+[02:09:44] [Worker-Main-6/WARN]: Tried to access a block entity before it was created. class_2339{x=-10414, y=-53, z=-2101}
+[02:09:51] [Server thread/INFO]: Luna_trix teleported to 56641.5 -59.0 1056138.5 minecraft:overworld
+[02:10:53] [Server thread/INFO]: Gathooo teleported to -10904.0 126.0 -1677.0 minecraft:overworld
+[02:11:15] [Server thread/INFO]: Gathooo teleported to -303.5 -52.0 200.5 minecraft:overworld
+[02:12:14] [Server thread/INFO]: SrLipord[/127.163.204.157:36127] logged in with entity id 15190 at (-11658.181577354788, 92.49520087700593, -2435.2334505156477)
+[02:12:14] [Server thread/INFO]: SrLipord joined the game
+[02:12:17] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[02:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[02:21:52] [Server thread/INFO]: Gathooo teleported to 54867.5 121.0 1054509.5 minecraft:overworld
+[02:22:09] [Worker-Main-5/WARN]: Tried to access a block entity before it was created. class_2339{x=55029, y=-16, z=1054593}
+[02:24:16] [Server thread/INFO]: SrLipord teleported to -895.5 313.0 -13999.5 minecraft:overworld
+[02:24:31] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:24:33] [Server thread/INFO]: [Not Secure] <SrLipord> a
+[02:25:17] [Server thread/INFO]: SrLipord teleported to -2287.5 160.0 -11887.5 minecraft:overworld
+[02:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[02:26:12] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:26:51] [Server thread/INFO]: SrLipord teleported to 3485.5 117.0 -64.5 minecraft:overworld
+[02:26:54] [Server thread/INFO]: Gathooo teleported to -252.5 -47.0 274.5 minecraft:overworld
+[02:27:04] [Server thread/WARN]: SrLipord moved too quickly! 3.1373548149549606,3.7518640014090607,8.93350497973065
+[02:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3026ms or 60 ticks behind
+[02:27:42] [Worker-Main-4/WARN]: Couldn't find template pool reference: kaisyn:village/beach_lighthouse/villager_lighthouse_master
+[02:28:39] [Server thread/INFO]: Vector[/127.193.171.90:59635] logged in with entity id 25285 at (-10752.331430526667, 138.0, -2547.457442776697)
+[02:28:39] [Server thread/INFO]: Vector joined the game
+[02:28:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Vector accepted server config.
+[02:28:40] [Server thread/INFO]: Luna_trix teleported to 56641.5 -59.0 1056138.5 minecraft:overworld
+[02:28:52] [Worker-Main-5/WARN]: Tried to access a block entity before it was created. class_2339{x=-10554, y=-16, z=-2495}
+[02:29:19] [Server thread/INFO]: Gathooo teleported to -303.5 -52.0 200.5 minecraft:overworld
+[02:29:48] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:29:54] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[02:30:17] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:30:48] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[02:36:27] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:36:52] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:37:34] [Server thread/INFO]: Luna_trix teleported to 56641.5 -59.0 1056138.5 minecraft:overworld
+[02:40:13] [Server thread/INFO]: Gathooo teleported to 53981.5 78.0 1054761.5 minecraft:overworld
+[02:40:37] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:40:39] [Server thread/INFO]: [Gathooo: Teleported Gathooo to Luna_trix]
+[02:41:03] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[02:43:56] [Server thread/INFO]: SrLipord teleported to -2287.5 186.0 -11888.5 minecraft:overworld
+[02:44:12] [Server thread/INFO]: Vector teleported to -11480.5 103.0 -2118.5 minecraft:overworld
+[02:44:23] [Server thread/INFO]: Luna_trix teleported to 56847.5 50.0 1055851.5 minecraft:overworld
+[02:46:28] [Server thread/INFO]: Vector teleported to -10753.5 138.0 -2530.5 minecraft:overworld
